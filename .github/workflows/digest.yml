@@ -1,0 +1,30 @@
+name: Weekly digest draft
+
+# Every Sunday evening: write digests/YYYY-MM-DD.md and, if the BUTTONDOWN_API_KEY secret is set,
+# create a DRAFT email in Buttondown. Someone skims it on Monday morning and presses send.
+on:
+  schedule:
+    - cron: "0 18 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m radar digest
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+      - run: |
+          git config user.name "placement-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add digests
+          git diff --cached --quiet || git commit -m "Digest $(date -u +%Y-%m-%d)"
+          git pull --rebase && git push

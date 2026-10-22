@@ -1,0 +1,50 @@
+name: Update board
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours, off the hour to avoid GitHub's busiest minute
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["site/**", "radar/**", ".github/workflows/update.yml"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-board
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Test classification rules
+        run: python -m unittest discover tests
+      - name: Scrape employer boards and rebuild site data
+        if: github.event_name != 'push'
+        run: python -m radar update
+      - name: Rebuild site data only
+        if: github.event_name == 'push'
+        run: python -m radar export
+      - name: Report failing sources
+        run: python -m radar health || echo "::warning::Some job boards failed this run; see the log above"
+      - name: Commit updated data
+        run: |
+          git config user.name "placement-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data site/data site/feed.xml
+          git diff --cached --quiet || git commit -m "Update board data $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Placement Radar</title>
+<meta name="description" content="Every open UK engineering internship and year-in-industry placement, straight from employer job boards, updated every few hours.">
+<link rel="alternate" type="application/rss+xml" title="New roles" href="feed.xml">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='none' stroke='%232563eb' stroke-width='3'/><circle cx='16' cy='16' r='4' fill='%232563eb'/></svg>">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <p class="brand"><span class="dot"></span>Placement Radar</p>
+    <h1>Every UK engineering placement and internship, in one place.</h1>
+    <p class="lede">Pulled straight from <span id="m-tracked">50+</span> employers' own job boards and refreshed every few hours, so you see roles the day they open, not the week before they close.</p>
+    <form class="signup" id="signup">
+      <label for="email" class="sr">Email address</label>
+      <input id="email" name="email" type="email" required placeholder="you@university.ac.uk" autocomplete="email">
+      <button type="submit">Get the weekly digest</button>
+      <p class="fine" id="signup-msg">Free. One email a week with new roles and deadlines. Unsubscribe anytime.</p>
+    </form>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="stats" aria-label="Board stats">
+    <div><strong id="m-open">–</strong><span>open roles</span></div>
+    <div><strong id="m-place">–</strong><span>year placements</span></div>
+    <div><strong id="m-intern">–</strong><span>internships</span></div>
+    <div><strong id="m-soon">–</strong><span>close within 14 days</span></div>
+  </section>
+
+  <section class="filters" aria-label="Filters">
+    <input id="q" type="search" placeholder="Search role, company or city…" aria-label="Search">
+    <div class="chips" id="types" role="group" aria-label="Role type">
+      <button data-type="" class="on">All</button>
+      <button data-type="placement">Year placement</button>
+      <button data-type="internship">Summer internship</button>
+      <button data-type="insight">Insight / spring week</button>
+    </div>
+    <div class="row">
+      <select id="disc" aria-label="Discipline"><option value="">All disciplines</option></select>
+      <select id="sector" aria-label="Sector"><option value="">All sectors</option></select>
+      <select id="region" aria-label="Region">
+        <option value="">Anywhere in the UK</option>
+        <option value="london">London</option>
+        <option value="south">South &amp; Thames Valley</option>
+        <option value="midlands">Midlands</option>
+        <option value="north">North of England</option>
+        <option value="scotland">Scotland</option>
+        <option value="wales">Wales &amp; South West</option>
+      </select>
+      <select id="sort" aria-label="Sort">
+        <option value="deadline">Closing soonest</option>
+        <option value="new">Newest first</option>
+        <option value="company">Company A–Z</option>
+      </select>
+    </div>
+    <label class="check"><input type="checkbox" id="newonly"> Only roles added in the last 7 days</label>
+  </section>
+
+  <p class="count" id="count" aria-live="polite"></p>
+  <ol class="jobs" id="jobs"></ol>
+  <button class="more" id="more" hidden>Show more</button>
+  <p class="empty" id="empty" hidden>No roles match those filters. Try widening them.</p>
+</main>
+
+<footer class="wrap foot">
+  <p>Updated <span id="m-updated">–</span>. Listings come from employers' public job boards. Always check the deadline on the employer's page.
+  Run by students; not affiliated with any employer. <a href="feed.xml">RSS feed</a> · <a href="mailto:hello@placementradar.uk" id="contact">Employers: get featured</a></p>
+</footer>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
