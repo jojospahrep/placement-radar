@@ -14,9 +14,9 @@ Status as of 2026-10-22 (end of first build session). Read this first if you are
 - GitHub Actions: `update.yml` (every 6h: test, scrape, commit data, deploy Pages) and `digest.yml` (Sun 18:00).
 
 ## Waiting on Joseph (needs his accounts)
-1. Create a public GitHub repo `jojospahrep/placement-radar` and push `main`
-   (the `gh` CLI isn't installed, so a push needs his GitHub login).
-   Then in repo Settings → Pages → Source, choose "GitHub Actions". Run the "Update board" workflow once by hand.
+1. Repo `jojospahrep/placement-radar` exists and is PRIVATE (Joseph's choice, 2026-10-23); scraping runs every 6h.
+   To launch: make it public, set Settings → Pages → Source to "GitHub Actions", add repo variable
+   DEPLOY_PAGES=true, then run "Update board" by hand.
 2. Create a free Buttondown account. Put the username in `site/config.js` and add the API key as the repo secret
    `BUTTONDOWN_API_KEY`.
 3. Pick a contact email (the footer currently says hello@placementradar.uk, which doesn't exist yet), or buy a domain.
