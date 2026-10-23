@@ -14,12 +14,12 @@ Status as of 2026-10-22 (end of first build session). Read this first if you are
 - GitHub Actions: `update.yml` (every 6h: test, scrape, commit data, deploy Pages) and `digest.yml` (Sun 18:00).
 
 ## Waiting on Joseph (needs his accounts)
-1. Repo `jojospahrep/placement-radar` exists and is PRIVATE (Joseph's choice, 2026-10-23); scraping runs every 6h.
-   To launch: make it public, set Settings → Pages → Source to "GitHub Actions", add repo variable
-   DEPLOY_PAGES=true, then run "Update board" by hand.
+1. Live as a quiet BETA since 2026-10-23: public repo, Pages deployed by Actions (repo variable DEPLOY_PAGES=true).
+   The page has `noindex` and a Beta label; Joseph is not publicising it yet. Remove the noindex line in
+   site/index.html when he decides to launch properly.
 2. Create a free Buttondown account. Put the username in `site/config.js` and add the API key as the repo secret
    `BUTTONDOWN_API_KEY`.
-3. Pick a contact email (the footer currently says hello@placementradar.uk, which doesn't exist yet), or buy a domain.
+3. Pick a contact email or domain. For now the footer links to GitHub issues for problems and removal requests.
 
 ## Next build steps (no input needed)
 - More employers on other systems: BAE Systems, Airbus, Arup, JLR, Atkins, Mott MacDonald, AECOM, National Grid,

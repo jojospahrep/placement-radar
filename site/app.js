@@ -88,7 +88,6 @@
     });
     $("more").addEventListener("click", () => { state.shown += PAGE; render(); });
     $("signup").addEventListener("submit", subscribe);
-    if (cfg.contactEmail) $("contact").href = `mailto:${cfg.contactEmail}?subject=Featured%20listing`;
   }
 
   async function subscribe(e) {
