@@ -165,6 +165,8 @@ def update(only: str | None = None) -> dict:
     store = load_store()
     results, health = fetch_all(store, only=only)
     summary = merge(store, results, health)
+    if not only:  # forget boards removed from companies.py
+        store["sources"] = {k: v for k, v in store["sources"].items() if k in health}
     save_store(store)
     return summary
 
