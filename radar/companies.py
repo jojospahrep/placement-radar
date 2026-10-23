@@ -78,7 +78,6 @@ GREENHOUSE = [
     ("Isar Aerospace", "Aerospace & Defence", "isaraerospace"),
     ("Spire Global", "Aerospace & Defence", "spire"),
     ("Formlabs", "Precision & Manufacturing", "formlabs"),
-    ("Nothing", "Consumer Products", "nothing"),
     ("Neuralink", "Medtech", "neuralink"),
     ("OVO Energy", "Energy & Industrial", "ovoenergy"),
     ("Monzo", "Software & Fintech", "monzo"),
