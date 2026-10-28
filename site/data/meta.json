@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-28T13:01:27+00:00",
- "open": 60,
+ "updated_at": "2026-10-28T22:39:21+00:00",
+ "open": 57,
  "employers": 15,
  "employers_tracked": 81,
  "sources_ok": 81,
  "by_type": {
-  "placement": 30,
-  "internship": 30,
+  "placement": 29,
+  "internship": 28,
   "insight": 0
  }
 }
