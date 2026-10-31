@@ -12,7 +12,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "01c0ff299867",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "UK, Bristol; Switzerland, Zurich",
    "misses": 0,
    "posted": "2026-10-14",
@@ -36,7 +36,7 @@
    ],
    "first_seen": "2026-10-29T22:48:44+00:00",
    "id": "05f072554385",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "GB-NU-CRAMLINGTON-ATLEY WAY NORTH NELSON INDUSTRIAL ESTATE",
    "misses": 0,
    "posted": "2026-10-29",
@@ -63,7 +63,7 @@
    "id": "0978bb8262bf",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "Gloucester; Cheltenham",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-06",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -110,7 +110,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "17c026daa6c2",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -134,7 +134,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "1a0ee2560348",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -208,7 +208,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "2b904914dd31",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Denham, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-20",
@@ -282,7 +282,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "341a7e4140af",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "United Kingdom, Newbury",
    "misses": 0,
    "posted": "2026-10-19",
@@ -331,7 +331,7 @@
    ],
    "first_seen": "2026-10-26T22:43:22+00:00",
    "id": "3ce9d7b09d8f",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Cambridge, UK",
    "misses": 0,
    "posted": "2026-10-09",
@@ -355,7 +355,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "4200c4c27fba",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -408,7 +408,7 @@
    "id": "42da7e9ea41e",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "Leeds, West Yorkshire, United Kingdom",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-06",
    "sector": "Medtech",
    "source": "workday",
@@ -457,7 +457,7 @@
    "id": "4dee22441c82",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "GBR - Frimley, UK",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-14",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -482,7 +482,7 @@
    "id": "4ede9eed9ceb",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "GBR - Frimley, UK",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-14",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -504,7 +504,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "505ac7a9f90c",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -530,7 +530,7 @@
    "id": "50e96e959344",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "GBR - Gosport, UK",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-14",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -579,7 +579,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "585066cb1a60",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Coventry, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-08",
@@ -605,7 +605,7 @@
    "id": "592b79ff6840",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "GBR - Welwyn Garden City, UK",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-14",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -678,7 +678,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "63b714a12a98",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "London",
    "misses": 0,
    "posted": "2026-09-28",
@@ -703,7 +703,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "652c1476882e",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "United Kingdom, Edinburgh, SC, Freer",
    "misses": 0,
    "posted": "2026-10-21",
@@ -728,7 +728,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "68ee91e163ab",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Denham, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-08",
@@ -754,7 +754,7 @@
    "id": "6c6508c8dca4",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "GBR - Farnborough, UK",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-14",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -778,7 +778,7 @@
    "id": "6d20dae0087a",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "Gloucester; Cheltenham",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-06",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -800,7 +800,7 @@
    ],
    "first_seen": "2026-10-23T16:24:33+00:00",
    "id": "6eebad2a967c",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "GB-Ashby de la Zouch-Power House, Excelsior Road",
    "misses": 0,
    "posted": "2026-10-22",
@@ -824,7 +824,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "6f445038395f",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -851,7 +851,7 @@
    ],
    "first_seen": "2026-10-23T16:24:33+00:00",
    "id": "708053078255",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "United Kingdom, Edinburgh, SC, Freer",
    "misses": 0,
    "posted": "2026-10-23",
@@ -877,7 +877,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "728d3bbdead6",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Coventry, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-13",
@@ -901,7 +901,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "79961ef55cef",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "London - Shell Centre",
    "misses": 0,
    "posted": "2026-09-15",
@@ -925,7 +925,7 @@
    ],
    "first_seen": "2026-10-28T22:39:21+00:00",
    "id": "7b717a7424e5",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "York, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-28",
@@ -949,7 +949,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "811912981033",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -976,7 +976,7 @@
    "id": "824e997e0bef",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "Eastleigh",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-06",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -1024,7 +1024,7 @@
    ],
    "first_seen": "2026-10-27T22:18:26+00:00",
    "id": "86851580ccbc",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "GBR - Bristol, UK; GBR - Yeovil, UK, GBR - Fleet, UK",
    "misses": 0,
    "posted": "2026-10-27",
@@ -1049,7 +1049,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "8691f9e42b9d",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "UK – London – New Oxford Street",
    "misses": 0,
    "posted": "2026-10-15",
@@ -1100,7 +1100,7 @@
    "id": "8c849a61a616",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "GBR - Sheffield, UK",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-22",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -1147,7 +1147,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "971cf2e16730",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Winnersh, United Kingdom",
    "misses": 0,
    "posted": "2026-10-16",
@@ -1172,7 +1172,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "9b462e7aedd1",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Birmingham, West Midlands, United Kingdom",
    "misses": 0,
    "posted": "2026-09-14",
@@ -1221,7 +1221,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "aa99354746e9",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Coventry, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-08",
@@ -1273,7 +1273,7 @@
    "id": "ad7cbd15be30",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "Cheltenham; Bristol",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-08",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -1295,7 +1295,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "af5a3bf3db9a",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "UK – London – New Oxford Street",
    "misses": 0,
    "posted": "2026-10-15",
@@ -1347,7 +1347,7 @@
    "id": "be760c65a8b9",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "GBR - Prestwick, UK",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-11",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -1369,7 +1369,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "c3e5f26a7f95",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "United Kingdom, Edinburgh, SC, Freer",
    "misses": 0,
    "posted": "2026-10-20",
@@ -1394,7 +1394,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "c51adce6d83e",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "United Kingdom, Edinburgh, SC, Freer; United Kingdom, Hayes, United Kingdom, Glasgow, United Kingdom, Newbury",
    "misses": 0,
    "posted": "2026-09-26",
@@ -1418,7 +1418,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "c9accae87167",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Bristol, UK; Cambridge, UK; Bristol, UK; Cambridge, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -1442,7 +1442,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "ca1ebbd72f14",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "UK - Hertfordshire - Ware",
    "misses": 0,
    "posted": "2026-10-15",
@@ -1518,7 +1518,7 @@
    "id": "d00f31e9d3e7",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "GBR - Prestwick, UK",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-14",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -1544,7 +1544,7 @@
    "duplicate_of": "708053078255",
    "first_seen": "2026-10-23T16:24:33+00:00",
    "id": "d04366d31e1c",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "United Kingdom, Newbury",
    "misses": 0,
    "posted": "2026-10-23",
@@ -1570,7 +1570,7 @@
    "id": "d1eaa566e805",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "Cheltenham; Prestwick, Gloucester, Cardiff",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-06",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -1592,7 +1592,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "d41c8de7b25b",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -1616,7 +1616,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "d688d7e82201",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Denham, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-13",
@@ -1643,7 +1643,7 @@
    "id": "dc5193b267c3",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "GBR - Crawley, UK",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-14",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -1667,7 +1667,7 @@
    "id": "dd8d9dde91d0",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "GBR - Prestwick, UK",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-14",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -1689,7 +1689,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "de0db35639d7",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -1763,7 +1763,7 @@
    "duplicate_of": "d688d7e82201",
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "e733e824a0a8",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Denham, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-13",
@@ -1787,7 +1787,7 @@
    ],
    "first_seen": "2026-10-29T13:08:25+00:00",
    "id": "e858881f139b",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Worcester, , United Kingdom",
    "misses": 0,
    "posted": "2026-10-29",
@@ -1837,7 +1837,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "eb53c41dd945",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Prestwick; Gloucester, Cheltenham, Cardiff",
    "misses": 0,
    "posted": "2026-09-06",
@@ -1864,7 +1864,7 @@
    "id": "eb8fb04954eb",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "Cheltenham; Prestwick",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-06",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -1886,7 +1886,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "ec6de91f753f",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "London",
    "misses": 0,
    "posted": "2026-09-28",
@@ -1935,7 +1935,7 @@
    "duplicate_of": "728d3bbdead6",
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "f2194c3f4bd1",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Basildon, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-13",
@@ -1961,7 +1961,7 @@
    "id": "f6b75d522472",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "GBR - Bristol, UK; GBR - Yeovil, UK, GBR - RAF Lossiemouth, United Kingdom",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-14",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -1983,7 +1983,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "f8780b19658f",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "High Wycombe, Buckinghamshire, United Kingdom; Maidenhead, Berkshire, United Kingdom",
    "misses": 0,
    "posted": "2026-10-20",
@@ -2007,7 +2007,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "f8bdcbdef5d1",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Gloucester; Prestwick, Cheltenham",
    "misses": 0,
    "posted": "2026-09-10",
@@ -2031,7 +2031,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "f9e9b7030631",
-   "last_seen": "2026-10-30T22:26:04+00:00",
+   "last_seen": "2026-10-31T05:48:54+00:00",
    "location": "Glasgow",
    "misses": 0,
    "posted": "2026-08-17",
@@ -2082,7 +2082,7 @@
    "id": "fe098a4ef0e7",
    "last_seen": "2026-10-30T22:26:04+00:00",
    "location": "GBR - Welwyn Garden City, UK",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-09-14",
    "sector": "Aerospace & Defence",
    "source": "workday",
@@ -4029,6 +4029,7 @@
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---Inside-Sales-Dental-Professional--Nashville--TN-Summer-2027_593132": "2026-10-22T01:19:42+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern--Distribution-and-Reverse-Logistics--Nashville--TN---Summer-2027_593028": "2026-10-23T16:24:33+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern-Customer-Experience--Health-Systems-Strategy-and-Growth--Cambridge--MA-Summer-2027_593456": "2026-10-23T16:24:33+00:00",
+  "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850": "2026-10-31T05:48:54+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Plymouth-Minnesota-United-States/Finance-Intern_592696": "2026-10-29T22:48:44+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Advanced-Manufacturing-Engineer---Plymouth--MN---Summer-2027_594522": "2026-10-29T22:48:44+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406": "2026-10-22T01:19:42+00:00",
@@ -4377,572 +4378,572 @@
  },
  "sources": {
   "ashby:enpal": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Enpal",
    "error": null,
    "ok": true,
    "raw": 15
   },
   "ashby:humanoid": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Humanoid",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "ashby:lightsource": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Lightsource bp",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "ashby:oxa": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Oxa",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "ashby:skydio": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Skydio",
    "error": null,
    "ok": true,
    "raw": 20
   },
   "ashby:wayve": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Wayve",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:agilityrobotics": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Agility Robotics",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:apptronik": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Apptronik",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:asteralabs": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Astera Labs",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "greenhouse:dexory": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Dexory",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:figure": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Figure",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:flyzipline": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Zipline",
    "error": null,
    "ok": true,
-   "raw": 71
+   "raw": 70
   },
   "greenhouse:formlabs": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Formlabs",
    "error": null,
    "ok": true,
    "raw": 19
   },
   "greenhouse:fractile": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Fractile",
    "error": "HTTPError: HTTP Error 404: Not Found",
    "ok": false,
    "raw": 0
   },
   "greenhouse:graphcore": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Graphcore",
    "error": null,
    "ok": true,
    "raw": 10
   },
   "greenhouse:helsing": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Helsing",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "greenhouse:isaraerospace": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Isar Aerospace",
    "error": null,
    "ok": true,
    "raw": 4
   },
   "greenhouse:kodiak": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Kodiak",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "greenhouse:lightmatter": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Lightmatter",
    "error": null,
    "ok": true,
    "raw": 1
   },
   "greenhouse:monzo": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Monzo",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "greenhouse:neuralink": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Neuralink",
    "error": null,
    "ok": true,
    "raw": 19
   },
   "greenhouse:nuro": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Nuro",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "greenhouse:ovoenergy": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "OVO Energy",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:psiquantum": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "PsiQuantum",
    "error": null,
    "ok": true,
    "raw": 6
   },
   "greenhouse:riverlane": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Riverlane",
    "error": null,
    "ok": true,
    "raw": 5
   },
   "greenhouse:spire": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Spire Global",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:tenstorrent": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Tenstorrent",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:waymo": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Waymo",
    "error": null,
    "ok": true,
    "raw": 5
   },
   "lever:shieldai": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Shield AI",
    "error": null,
    "ok": true,
    "raw": 8
   },
   "smartrecruiters:BoschGroup": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Bosch",
    "error": null,
    "ok": true,
    "raw": 11
   },
   "smartrecruiters:Continental": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Continental",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "smartrecruiters:Rotork": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Rotork",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "smartrecruiters:Wabtec": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Wabtec",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:3m": {
-   "checked": "2026-10-30T22:25:28+00:00",
+   "checked": "2026-10-31T05:48:24+00:00",
    "company": "3M",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:abb": {
-   "checked": "2026-10-30T22:25:32+00:00",
+   "checked": "2026-10-31T05:48:27+00:00",
    "company": "ABB",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 0
   },
   "workday:amat": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:50+00:00",
    "company": "Applied Materials",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 0
   },
   "workday:analogdevices": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:50+00:00",
    "company": "Analog Devices",
-   "error": null,
-   "ok": true,
-   "raw": 7
-  },
-  "workday:astrazeneca": {
-   "checked": "2026-10-30T22:26:04+00:00",
-   "company": "AstraZeneca",
-   "error": null,
-   "ok": true,
-   "raw": 2
-  },
-  "workday:bakerhughes": {
-   "checked": "2026-10-30T22:25:35+00:00",
-   "company": "Baker Hughes",
    "error": null,
    "ok": true,
    "raw": 6
   },
+  "workday:astrazeneca": {
+   "checked": "2026-10-31T05:48:50+00:00",
+   "company": "AstraZeneca",
+   "error": null,
+   "ok": true,
+   "raw": 0
+  },
+  "workday:bakerhughes": {
+   "checked": "2026-10-31T05:48:30+00:00",
+   "company": "Baker Hughes",
+   "error": null,
+   "ok": true,
+   "raw": 2
+  },
   "workday:boeing": {
-   "checked": "2026-10-30T22:25:28+00:00",
+   "checked": "2026-10-31T05:48:24+00:00",
    "company": "Boeing",
    "error": null,
    "ok": true,
-   "raw": 13
+   "raw": 1
   },
   "workday:broadcom": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Broadcom",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:cadence": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:50+00:00",
    "company": "Cadence",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:carrier": {
-   "checked": "2026-10-30T22:25:35+00:00",
+   "checked": "2026-10-31T05:48:30+00:00",
    "company": "Carrier",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:cat": {
-   "checked": "2026-10-30T22:25:28+00:00",
+   "checked": "2026-10-31T05:48:24+00:00",
    "company": "Caterpillar",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:centrica": {
-   "checked": "2026-10-30T22:25:35+00:00",
+   "checked": "2026-10-31T05:48:30+00:00",
    "company": "Centrica",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:chevron": {
-   "checked": "2026-10-30T22:25:35+00:00",
+   "checked": "2026-10-31T05:48:30+00:00",
    "company": "Chevron",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:dupont": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:50+00:00",
    "company": "DuPont",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:dyson": {
-   "checked": "2026-10-30T22:25:28+00:00",
+   "checked": "2026-10-31T05:48:24+00:00",
    "company": "Dyson",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:geaerospace": {
-   "checked": "2026-10-30T22:25:26+00:00",
+   "checked": "2026-10-31T05:48:22+00:00",
    "company": "GE Aerospace",
    "error": null,
    "ok": true,
-   "raw": 8
+   "raw": 2
   },
   "workday:globalfoundries": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "GlobalFoundries",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 0
   },
   "workday:gsk": {
-   "checked": "2026-10-30T22:25:35+00:00",
+   "checked": "2026-10-31T05:48:30+00:00",
    "company": "GSK",
    "error": null,
    "ok": true,
    "raw": 3
   },
   "workday:hitachi": {
-   "checked": "2026-10-30T22:25:32+00:00",
+   "checked": "2026-10-31T05:48:27+00:00",
    "company": "Hitachi",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 0
   },
   "workday:hpe": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "HPE",
    "error": null,
    "ok": true,
    "raw": 1
   },
   "workday:iberdrola": {
-   "checked": "2026-10-30T22:25:35+00:00",
+   "checked": "2026-10-31T05:48:30+00:00",
    "company": "Iberdrola / ScottishPower",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:intel": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:50+00:00",
    "company": "Intel",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:jci": {
-   "checked": "2026-10-30T22:25:35+00:00",
+   "checked": "2026-10-31T05:48:30+00:00",
    "company": "Johnson Controls",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:jj": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:50+00:00",
    "company": "Johnson & Johnson",
    "error": null,
    "ok": true,
-   "raw": 4
+   "raw": 1
   },
   "workday:kbr": {
-   "checked": "2026-10-30T22:25:28+00:00",
+   "checked": "2026-10-31T05:48:24+00:00",
    "company": "KBR",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:kla": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:50+00:00",
    "company": "KLA",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:lumentum": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Lumentum",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:marvell": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Marvell",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:medtronic": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:50+00:00",
    "company": "Medtronic",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:micron": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Micron",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 0
   },
   "workday:motorolasolutions": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Motorola Solutions",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:novartis": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:50+00:00",
    "company": "Novartis",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:nvidia": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:50+00:00",
    "company": "NVIDIA",
-   "error": null,
-   "ok": true,
-   "raw": 23
-  },
-  "workday:nxp": {
-   "checked": "2026-10-30T22:26:04+00:00",
-   "company": "NXP",
-   "error": null,
-   "ok": true,
-   "raw": 2
-  },
-  "workday:pfizer": {
-   "checked": "2026-10-30T22:26:04+00:00",
-   "company": "Pfizer",
    "error": null,
    "ok": true,
    "raw": 1
   },
+  "workday:nxp": {
+   "checked": "2026-10-31T05:48:50+00:00",
+   "company": "NXP",
+   "error": null,
+   "ok": true,
+   "raw": 1
+  },
+  "workday:pfizer": {
+   "checked": "2026-10-31T05:48:50+00:00",
+   "company": "Pfizer",
+   "error": null,
+   "ok": true,
+   "raw": 0
+  },
   "workday:philips": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:50+00:00",
    "company": "Philips",
    "error": null,
    "ok": true,
-   "raw": 2
+   "raw": 1
   },
   "workday:renishaw": {
-   "checked": "2026-10-30T22:25:28+00:00",
+   "checked": "2026-10-31T05:48:24+00:00",
    "company": "Renishaw",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:rockwellautomation": {
-   "checked": "2026-10-30T22:25:32+00:00",
+   "checked": "2026-10-31T05:48:27+00:00",
    "company": "Rockwell Automation",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:rollsroyce": {
-   "checked": "2026-10-30T22:25:24+00:00",
+   "checked": "2026-10-31T05:48:21+00:00",
    "company": "Rolls-Royce",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:sanofi": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:50+00:00",
    "company": "Sanofi",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 0
   },
   "workday:sec": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Samsung",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:shell": {
-   "checked": "2026-10-30T22:25:35+00:00",
+   "checked": "2026-10-31T05:48:30+00:00",
    "company": "Shell",
    "error": null,
    "ok": true,
    "raw": 1
   },
   "workday:sky": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:54+00:00",
    "company": "Sky",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:smithnephew": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:50+00:00",
    "company": "Smith+Nephew",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:stellantis": {
-   "checked": "2026-10-30T22:25:28+00:00",
+   "checked": "2026-10-31T05:48:24+00:00",
    "company": "Stellantis",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:stryker": {
-   "checked": "2026-10-30T22:26:04+00:00",
+   "checked": "2026-10-31T05:48:50+00:00",
    "company": "Stryker",
    "error": null,
    "ok": true,
-   "raw": 2
+   "raw": 0
   },
   "workday:thales": {
-   "checked": "2026-10-30T22:25:28+00:00",
+   "checked": "2026-10-31T05:48:24+00:00",
    "company": "Thales",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 0
   },
   "workday:unilever": {
-   "checked": "2026-10-30T22:25:28+00:00",
+   "checked": "2026-10-31T05:48:24+00:00",
    "company": "Unilever",
    "error": null,
    "ok": true,
    "raw": 0
   }
  },
- "updated_at": "2026-10-30T22:26:04+00:00"
+ "updated_at": "2026-10-31T05:48:54+00:00"
 }
