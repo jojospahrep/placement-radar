@@ -12,7 +12,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "01c0ff299867",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "UK, Bristol; Switzerland, Zurich",
    "misses": 0,
    "posted": "2026-10-14",
@@ -36,7 +36,7 @@
    ],
    "first_seen": "2026-11-06T06:53:02+00:00",
    "id": "04f5197cd726",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Desford, United Kingdom",
    "misses": 0,
    "posted": "2026-11-06",
@@ -111,7 +111,7 @@
    ],
    "first_seen": "2026-11-05T20:00:29+00:00",
    "id": "0c91c663d3b1",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Worcester, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-05",
@@ -160,7 +160,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "17c026daa6c2",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -184,7 +184,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "1a0ee2560348",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -208,7 +208,7 @@
    ],
    "first_seen": "2026-11-10T19:47:48+00:00",
    "id": "1ee1676b321d",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Winnersh, Berkshire, United Kingdom",
    "misses": 0,
    "posted": "2026-11-10",
@@ -282,7 +282,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "2b904914dd31",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Denham, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-20",
@@ -356,7 +356,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "341a7e4140af",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "United Kingdom, Newbury",
    "misses": 0,
    "posted": "2026-10-19",
@@ -456,7 +456,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "4200c4c27fba",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -557,7 +557,7 @@
    ],
    "first_seen": "2026-11-10T19:47:48+00:00",
    "id": "494aa603f4ab",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Desford, United Kingdom; Stockton, United Kingdom",
    "misses": 0,
    "posted": "2026-11-10",
@@ -632,7 +632,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "505ac7a9f90c",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -835,7 +835,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "652c1476882e",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "United Kingdom, Edinburgh, SC, Freer",
    "misses": 0,
    "posted": "2026-10-21",
@@ -925,6 +925,7 @@
   },
   "6eebad2a967c": {
    "also_at": [],
+   "closed_at": "2026-11-11T06:30:32+00:00",
    "company": "Baker Hughes",
    "country": "GB",
    "cycle": null,
@@ -937,12 +938,12 @@
    "id": "6eebad2a967c",
    "last_seen": "2026-11-10T07:24:18+00:00",
    "location": "GB-Ashby de la Zouch-Power House, Excelsior Road",
-   "misses": 1,
+   "misses": 2,
    "posted": "2026-10-22",
    "sector": "Energy & Industrial",
    "source": "workday",
    "source_id": "workday:bakerhughes",
-   "status": "open",
+   "status": "closed",
    "title": "Intern – Electrical Engineering – 2027",
    "type": "internship",
    "url": "https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/GB-Ashby-de-la-Zouch-Power-House-Excelsior-Road/Intern---Electrical-Engineering---2027_R170981"
@@ -959,7 +960,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "6f445038395f",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -983,7 +984,7 @@
    ],
    "first_seen": "2026-11-04T19:48:58+00:00",
    "id": "6fe847e6a408",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Chesterfield, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-04",
@@ -1010,7 +1011,7 @@
    ],
    "first_seen": "2026-10-23T16:24:33+00:00",
    "id": "708053078255",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "United Kingdom, Edinburgh, SC, Freer",
    "misses": 0,
    "posted": "2026-10-23",
@@ -1034,7 +1035,7 @@
    ],
    "first_seen": "2026-11-04T19:48:58+00:00",
    "id": "70d09d9d70ec",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Worcester, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-04",
@@ -1060,7 +1061,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "728d3bbdead6",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Coventry, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-13",
@@ -1084,7 +1085,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "79961ef55cef",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "London - Shell Centre",
    "misses": 0,
    "posted": "2026-09-15",
@@ -1108,7 +1109,7 @@
    ],
    "first_seen": "2026-10-28T22:39:21+00:00",
    "id": "7b717a7424e5",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "York, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-28",
@@ -1132,7 +1133,7 @@
    ],
    "first_seen": "2026-11-03T14:22:36+00:00",
    "id": "7d779adf5ae8",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Worcester, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-03",
@@ -1156,7 +1157,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "811912981033",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -1232,7 +1233,7 @@
    ],
    "first_seen": "2026-10-27T22:18:26+00:00",
    "id": "86851580ccbc",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "GBR - Bristol, UK; GBR - Yeovil, UK, GBR - Fleet, UK",
    "misses": 0,
    "posted": "2026-10-27",
@@ -1257,7 +1258,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "8691f9e42b9d",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "UK – London – New Oxford Street",
    "misses": 0,
    "posted": "2026-10-15",
@@ -1357,7 +1358,7 @@
    ],
    "first_seen": "2026-11-04T19:48:58+00:00",
    "id": "8e4b30927814",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Worcester, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-04",
@@ -1406,7 +1407,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "971cf2e16730",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Winnersh, United Kingdom",
    "misses": 0,
    "posted": "2026-10-16",
@@ -1431,7 +1432,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "9b462e7aedd1",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Birmingham, West Midlands, United Kingdom",
    "misses": 0,
    "posted": "2026-09-14",
@@ -1455,7 +1456,7 @@
    ],
    "first_seen": "2026-11-10T19:47:48+00:00",
    "id": "9b8001dbcda0",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "United Kingdom- London – Zihipp",
    "misses": 0,
    "posted": "2026-11-10",
@@ -1504,7 +1505,7 @@
    ],
    "first_seen": "2026-11-05T20:00:29+00:00",
    "id": "a0a2c403087d",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Leeds, West Yorkshire, United Kingdom",
    "misses": 0,
    "posted": "2026-11-05",
@@ -1528,7 +1529,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "aa99354746e9",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Coventry, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-08",
@@ -1679,7 +1680,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "c3e5f26a7f95",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "United Kingdom, Edinburgh, SC, Freer",
    "misses": 0,
    "posted": "2026-10-20",
@@ -1704,7 +1705,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "c51adce6d83e",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "United Kingdom, Edinburgh, SC, Freer; United Kingdom, Hayes, United Kingdom, Glasgow, United Kingdom, Newbury",
    "misses": 0,
    "posted": "2026-09-26",
@@ -1728,7 +1729,7 @@
    ],
    "first_seen": "2026-11-08T06:07:36+00:00",
    "id": "c559c98a5c27",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Larne, County Antrim",
    "misses": 0,
    "posted": "2026-11-08",
@@ -1752,7 +1753,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "c9accae87167",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Bristol, UK; Cambridge, UK; Bristol, UK; Cambridge, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -1851,7 +1852,7 @@
    ],
    "first_seen": "2026-11-04T19:48:58+00:00",
    "id": "cc8b008c7ad1",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Chesterfield, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-04",
@@ -1904,7 +1905,7 @@
    "duplicate_of": "708053078255",
    "first_seen": "2026-10-23T16:24:33+00:00",
    "id": "d04366d31e1c",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "United Kingdom, Newbury",
    "misses": 0,
    "posted": "2026-10-23",
@@ -1953,7 +1954,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "d41c8de7b25b",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -1977,7 +1978,7 @@
    ],
    "first_seen": "2026-11-04T19:48:58+00:00",
    "id": "d4380c01e446",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Worcester, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-04",
@@ -2002,7 +2003,7 @@
    "duplicate_of": "eda4ad45934a",
    "first_seen": "2026-11-09T22:25:44+00:00",
    "id": "d6707c9e3a52",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Worcester, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-09",
@@ -2026,7 +2027,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "d688d7e82201",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Denham, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-13",
@@ -2101,7 +2102,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "de0db35639d7",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -2175,7 +2176,7 @@
    "duplicate_of": "d688d7e82201",
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "e733e824a0a8",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Denham, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-13",
@@ -2199,7 +2200,7 @@
    ],
    "first_seen": "2026-10-29T13:08:25+00:00",
    "id": "e858881f139b",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Worcester, , United Kingdom",
    "misses": 0,
    "posted": "2026-10-29",
@@ -2328,7 +2329,7 @@
    ],
    "first_seen": "2026-11-04T19:48:58+00:00",
    "id": "eda4ad45934a",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Worcester, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-04",
@@ -2377,7 +2378,7 @@
    "duplicate_of": "728d3bbdead6",
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "f2194c3f4bd1",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Basildon, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-13",
@@ -2426,7 +2427,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "f8780b19658f",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "High Wycombe, Buckinghamshire, United Kingdom; Maidenhead, Berkshire, United Kingdom",
    "misses": 0,
    "posted": "2026-10-20",
@@ -2475,7 +2476,7 @@
    ],
    "first_seen": "2026-11-03T14:22:36+00:00",
    "id": "f95576b4c3a0",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Chesterfield, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-03",
@@ -2573,7 +2574,7 @@
    ],
    "first_seen": "2026-11-09T06:40:45+00:00",
    "id": "fd4d425f69db",
-   "last_seen": "2026-11-10T19:47:48+00:00",
+   "last_seen": "2026-11-11T06:30:32+00:00",
    "location": "Larne, County Antrim",
    "misses": 0,
    "posted": "2026-11-09",
@@ -2786,6 +2787,7 @@
   "https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2027-Spring-Process-Engineer-Co-op--Billerica--MA-_R2631536": "2026-10-31T21:39:30+00:00",
   "https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2027-Spring-Purchasing-Co-op--Billerica--MA-_R2631531": "2026-10-31T21:39:30+00:00",
   "https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2027-Spring-Quality-Engineering-Co-op--Billerica--MA-_R2633077": "2026-11-10T07:24:18+00:00",
+  "https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540": "2026-11-11T06:30:32+00:00",
   "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/Summer-2027-Mechanical-Engineering-Intern--Bachelor-s--Chandler--AZ-_R2628770": "2026-10-28T22:39:21+00:00",
   "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/Summer-2027-Revenue-Operations-Intern--Bachelor-s--Chandler--AZ-_R2627539": "2026-10-28T22:39:21+00:00",
   "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ChandlerAZ/Summer-2027-Supplier-Engineer-Intern--Bachelor-s--Chandler--AZ-_R2627698": "2026-10-28T22:39:21+00:00",
@@ -2938,6 +2940,7 @@
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305": "2026-10-22T01:19:42+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Test-Engineering-Intern_R266146": "2026-10-22T01:19:42+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Engineering-Intern_R266095": "2026-10-22T01:19:42+00:00",
+  "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831": "2026-11-11T06:30:32+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Procurement--Operations--Intern_R266141": "2026-10-22T01:19:42+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-WA-Camas/Process-Sustaining-Engineering-Intern_R267011": "2026-10-22T01:19:42+00:00",
   "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Canada---Mississauga/AI-Business-Support-Specialist-Intern_R-261993": "2026-10-22T01:19:42+00:00",
@@ -3248,6 +3251,7 @@
   "https://dyson.wd3.myworkdayjobs.com/en-US/dyson_Careers/job/Netherlands---Amsterdam-Office/Marketing-Intern-Beauty---Oral-Care_JR38703": "2026-10-22T01:19:42+00:00",
   "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2": "2026-10-22T01:19:42+00:00",
   "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Beavercreek/Student-Welder-Trainee-Program_R5042970-1": "2026-11-08T22:10:38+00:00",
+  "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Beavercreek/Student-Welder-Trainee-Program_R5043119-1": "2026-11-11T06:30:32+00:00",
   "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Bengaluru/Intern---Materials-Science_R5042659-1": "2026-11-04T06:30:55+00:00",
   "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Bohemia/Digital-Systems-Intern---Bohemia--NY---Summer-2027_R5042864-1": "2026-11-09T22:25:44+00:00",
   "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Bohemia/Propulsion-Performance-Engineering-Intern---Bohemia--NY---Summer-2027_R5042754-2": "2026-11-06T06:53:02+00:00",
@@ -3333,6 +3337,7 @@
   "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Queretaro/Variable-Geometries-IME-IDB-Intern_R5040577-1": "2026-10-22T01:19:42+00:00",
   "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042291-1": "2026-11-02T06:13:06+00:00",
   "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042294-1": "2026-11-02T06:13:06+00:00",
+  "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Remote/Configurations-Intern_R5042953-1": "2026-11-11T06:30:32+00:00",
   "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Rivalta-di-Torino/Program-Management-Intern_R5042066-1": "2026-10-23T16:24:33+00:00",
   "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Shanghai/Contract-Operation-Intern_R5041792": "2026-10-22T01:19:42+00:00",
   "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Singapore/Digital-Transformation-Intern_R5036385-1": "2026-10-22T01:19:42+00:00",
@@ -3460,6 +3465,7 @@
   "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Australia---Victoria---Abbotsford/GSK-12-Month-Internship---Marketing--Australia-_442572": "2026-11-09T22:25:44+00:00",
   "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Belgium-Wavre/Internship--Cold-Chain-and-Distribution-Project-Coordinator--Vaccines-Supply-Chain--Belgium---2026_433310": "2026-10-22T01:19:42+00:00",
   "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Belgium-Wavre/Internship--End-to-End-Logistics---Supply-Chain-Transformation--Belgium---2026_433670": "2026-10-22T01:19:42+00:00",
+  "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Statistics-Intern_451515": "2026-11-11T06:30:32+00:00",
   "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Helsinki-Porkkalankatu/Marketing-Student-Worker_450461-1": "2026-10-30T13:01:00+00:00",
   "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Indonesia---DKI-Jakarta---Jakarta-Timur/Site-Intern_449820": "2026-10-22T01:19:42+00:00",
   "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Indonesia---DKI-Jakarta---Jakarta-Timur/Site-Intern_449823": "2026-10-22T01:19:42+00:00",
@@ -3734,6 +3740,7 @@
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Customer-Success-Intern_1211002": "2026-10-22T01:06:43+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Finance-Strategy---Planning-Intern_1206153": "2026-11-10T19:47:48+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-United-Kingdom/Sales-Intern--Placement-_1216277": "2026-10-26T22:43:22+00:00",
+  "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-United-Kingdom/Sales-Intern_1216754": "2026-11-11T06:30:32+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Wroclaw-Lower-Silesian-Poland/Intern_1215168": "2026-10-23T16:24:33+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Wroclaw-Lower-Silesian-Poland/Intern_1215169": "2026-10-22T01:19:42+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Wroclaw-Lower-Silesian-Poland/Intern_1215171": "2026-10-22T01:19:42+00:00",
@@ -4038,6 +4045,7 @@
   "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Strategic-Business-Operations-Summer-Intern_R-103514": "2026-10-22T01:19:42+00:00",
   "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/XMLNAME-2027-GD--US--Summer-Intern_R-102105": "2026-10-22T01:19:42+00:00",
   "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/XMLNAME-2027-Innovative-Medicine-Commercial-Leadership-Development-Program--CLDP---Summer-Internship_R-096662": "2026-10-22T01:19:42+00:00",
+  "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Toronto-Ontario-Canada/Medical-Affairs-Strategy---Execution---Oncology-Bladder-Cancer-Co-op_R-105202-1": "2026-11-11T06:30:32+00:00",
   "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Toronto-Ontario-Canada/Prostate-Cancer-Scientific-Publications-Co-Op_R-105233": "2026-11-10T19:47:48+00:00",
   "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Trenton-New-Jersey-United-States-of-America/Aviation-Maintenance-Technician-Summer-Intern_R-100789": "2026-10-22T01:19:42+00:00",
   "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/Production-Planning-Co-Op-Spring-2027_R-096903": "2026-10-23T16:24:33+00:00",
@@ -4512,6 +4520,7 @@
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Global-Education-Intern--Summer-2027-Internship-_R70401": "2026-11-03T23:26:59+00:00",
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Global-Education-Intern--Summer-2027-Internship-_R70403": "2026-11-03T23:26:59+00:00",
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Global-Sales-Operations---2027-Internship_R69254": "2026-10-22T01:19:42+00:00",
+  "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/IT-M-A-Integration-Analyst---2026-Summer-Internship--Chicago-Hybrid-_R70464": "2026-11-11T06:30:32+00:00",
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Inside-Sales-Intern--Summer-2027-Internship-_R68989": "2026-10-22T01:19:42+00:00",
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Marketing---2027-Summer-Internship_R68908": "2026-10-22T01:19:42+00:00",
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Motorola-Solutions-Foundation---2027-Summer-Internship_R68722": "2026-10-27T22:18:26+00:00",
@@ -4676,6 +4685,7 @@
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548": "2026-11-05T06:53:26+00:00",
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561": "2026-10-22T01:19:42+00:00",
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Platform-Technical-Marketing-Engineer-Intern---Summer-2027_JR2025907": "2026-10-22T01:19:42+00:00",
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Financial-Analyst-Intern--Hardware-FP-A---Summer-2027_JR2029523-1": "2026-11-11T06:30:32+00:00",
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642": "2026-10-26T22:43:22+00:00",
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Human-Resources-Intern---Summer-2027_JR2028740": "2026-11-05T06:53:26+00:00",
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449": "2026-11-03T01:01:22+00:00",
@@ -5062,6 +5072,8 @@
   "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Wenzhou/Commercial-Intern--_R2876508": "2026-10-27T05:11:23+00:00",
   "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Xian/-Commercial-Intern-_R2870368": "2026-10-28T13:01:27+00:00",
   "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-Summer-Internship_R119158": "2026-10-22T01:19:42+00:00",
+  "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/200-Connell-Drive-Berkeley-Heights-NJ-USA/Accounting-Intern_R121945": "2026-11-11T06:30:32+00:00",
+  "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959": "2026-11-11T06:30:32+00:00",
   "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949": "2026-11-07T06:03:56+00:00",
   "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Strategy---Intelligence-Intern_R121962": "2026-11-09T06:40:45+00:00",
   "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Customer-Experience-Strategy---Transformation-Intern_R121929": "2026-11-07T06:03:56+00:00",
@@ -5082,6 +5094,7 @@
   "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/Nassau-Lyford-Cay-Bahamas/Intern_R212062": "2026-10-22T01:19:42+00:00",
   "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/Rotterdam---Weena/Category-Management-Intern---Food-Service_R208570": "2026-10-22T01:19:42+00:00",
   "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/Scotford/Shell-Assessed-Internship-Programme--January-May-2027----Programme-de-stages-valus-de-Shell--janvier---mai-2027----Canada_R205117": "2026-10-22T01:19:42+00:00",
+  "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/Shell-Centre-Kuala-Lumpur/Tax-Associate-Intern_R214968": "2026-11-11T06:30:32+00:00",
   "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/Texas---Houston---Woodcreek/Shell-Assessed-Internship-Program-2027---United-States_R205156": "2026-10-22T01:19:42+00:00",
   "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Co-Op-Electrical-Engineering_R92956-1": "2026-10-22T01:19:42+00:00",
   "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Co-Op-Systems-Engineering_R92954": "2026-10-22T01:19:42+00:00",
@@ -5292,572 +5305,572 @@
  },
  "sources": {
   "ashby:enpal": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Enpal",
    "error": null,
    "ok": true,
    "raw": 13
   },
   "ashby:humanoid": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Humanoid",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "ashby:lightsource": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Lightsource bp",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "ashby:oxa": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Oxa",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "ashby:skydio": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Skydio",
    "error": null,
    "ok": true,
-   "raw": 24
+   "raw": 25
   },
   "ashby:wayve": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Wayve",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:agilityrobotics": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Agility Robotics",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:apptronik": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Apptronik",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:asteralabs": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Astera Labs",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "greenhouse:dexory": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Dexory",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:figure": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Figure",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:flyzipline": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Zipline",
    "error": null,
    "ok": true,
    "raw": 62
   },
   "greenhouse:formlabs": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Formlabs",
    "error": null,
    "ok": true,
-   "raw": 30
+   "raw": 31
   },
   "greenhouse:fractile": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Fractile",
    "error": "HTTPError: HTTP Error 404: Not Found",
    "ok": false,
    "raw": 0
   },
   "greenhouse:graphcore": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Graphcore",
    "error": null,
    "ok": true,
    "raw": 10
   },
   "greenhouse:helsing": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Helsing",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "greenhouse:isaraerospace": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Isar Aerospace",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "greenhouse:kodiak": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Kodiak",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "greenhouse:lightmatter": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Lightmatter",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "greenhouse:monzo": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Monzo",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:neuralink": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Neuralink",
    "error": null,
    "ok": true,
-   "raw": 19
+   "raw": 18
   },
   "greenhouse:nuro": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Nuro",
    "error": null,
    "ok": true,
    "raw": 1
   },
   "greenhouse:ovoenergy": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "OVO Energy",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:psiquantum": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "PsiQuantum",
    "error": null,
    "ok": true,
    "raw": 5
   },
   "greenhouse:riverlane": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Riverlane",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:spire": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Spire Global",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:tenstorrent": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Tenstorrent",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:waymo": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Waymo",
    "error": null,
    "ok": true,
    "raw": 4
   },
   "lever:shieldai": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Shield AI",
    "error": null,
    "ok": true,
    "raw": 11
   },
   "smartrecruiters:BoschGroup": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Bosch",
    "error": null,
    "ok": true,
    "raw": 19
   },
   "smartrecruiters:Continental": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Continental",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "smartrecruiters:Rotork": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Rotork",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "smartrecruiters:Wabtec": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Wabtec",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:3m": {
-   "checked": "2026-11-10T19:46:48+00:00",
+   "checked": "2026-11-11T06:29:57+00:00",
    "company": "3M",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:abb": {
-   "checked": "2026-11-10T19:46:48+00:00",
+   "checked": "2026-11-11T06:29:57+00:00",
    "company": "ABB",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:amat": {
-   "checked": "2026-11-10T19:47:22+00:00",
+   "checked": "2026-11-11T06:30:28+00:00",
    "company": "Applied Materials",
-   "error": null,
-   "ok": true,
-   "raw": 0
-  },
-  "workday:analogdevices": {
-   "checked": "2026-11-10T19:47:22+00:00",
-   "company": "Analog Devices",
-   "error": null,
-   "ok": true,
-   "raw": 6
-  },
-  "workday:astrazeneca": {
-   "checked": "2026-11-10T19:47:22+00:00",
-   "company": "AstraZeneca",
    "error": null,
    "ok": true,
    "raw": 1
   },
+  "workday:analogdevices": {
+   "checked": "2026-11-11T06:30:28+00:00",
+   "company": "Analog Devices",
+   "error": null,
+   "ok": true,
+   "raw": 7
+  },
+  "workday:astrazeneca": {
+   "checked": "2026-11-11T06:30:28+00:00",
+   "company": "AstraZeneca",
+   "error": null,
+   "ok": true,
+   "raw": 0
+  },
   "workday:bakerhughes": {
-   "checked": "2026-11-10T19:46:52+00:00",
+   "checked": "2026-11-11T06:30:04+00:00",
    "company": "Baker Hughes",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:boeing": {
-   "checked": "2026-11-10T19:46:48+00:00",
+   "checked": "2026-11-11T06:29:57+00:00",
    "company": "Boeing",
    "error": null,
    "ok": true,
    "raw": 1
   },
   "workday:broadcom": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Broadcom",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:cadence": {
-   "checked": "2026-11-10T19:47:22+00:00",
+   "checked": "2026-11-11T06:30:28+00:00",
    "company": "Cadence",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:carrier": {
-   "checked": "2026-11-10T19:46:52+00:00",
+   "checked": "2026-11-11T06:30:04+00:00",
    "company": "Carrier",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:cat": {
-   "checked": "2026-11-10T19:46:48+00:00",
+   "checked": "2026-11-11T06:29:57+00:00",
    "company": "Caterpillar",
    "error": null,
    "ok": true,
    "raw": 4
   },
   "workday:centrica": {
-   "checked": "2026-11-10T19:46:52+00:00",
+   "checked": "2026-11-11T06:30:04+00:00",
    "company": "Centrica",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:chevron": {
-   "checked": "2026-11-10T19:46:52+00:00",
+   "checked": "2026-11-11T06:30:04+00:00",
    "company": "Chevron",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:dupont": {
-   "checked": "2026-11-10T19:47:22+00:00",
+   "checked": "2026-11-11T06:30:28+00:00",
    "company": "DuPont",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:dyson": {
-   "checked": "2026-11-10T19:46:48+00:00",
+   "checked": "2026-11-11T06:29:57+00:00",
    "company": "Dyson",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:geaerospace": {
-   "checked": "2026-11-10T19:46:39+00:00",
+   "checked": "2026-11-11T06:29:57+00:00",
    "company": "GE Aerospace",
+   "error": null,
+   "ok": true,
+   "raw": 2
+  },
+  "workday:globalfoundries": {
+   "checked": "2026-11-11T06:30:32+00:00",
+   "company": "GlobalFoundries",
    "error": null,
    "ok": true,
    "raw": 0
   },
-  "workday:globalfoundries": {
-   "checked": "2026-11-10T19:47:48+00:00",
-   "company": "GlobalFoundries",
-   "error": null,
-   "ok": true,
-   "raw": 1
-  },
   "workday:gsk": {
-   "checked": "2026-11-10T19:46:52+00:00",
+   "checked": "2026-11-11T06:30:04+00:00",
    "company": "GSK",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "workday:hitachi": {
-   "checked": "2026-11-10T19:46:48+00:00",
+   "checked": "2026-11-11T06:29:57+00:00",
    "company": "Hitachi",
    "error": null,
    "ok": true,
-   "raw": 2
+   "raw": 0
   },
   "workday:hpe": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "HPE",
    "error": null,
    "ok": true,
-   "raw": 5
+   "raw": 3
   },
   "workday:iberdrola": {
-   "checked": "2026-11-10T19:46:52+00:00",
+   "checked": "2026-11-11T06:30:04+00:00",
    "company": "Iberdrola / ScottishPower",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:intel": {
-   "checked": "2026-11-10T19:47:22+00:00",
+   "checked": "2026-11-11T06:30:28+00:00",
    "company": "Intel",
    "error": null,
    "ok": true,
-   "raw": 2
+   "raw": 0
   },
   "workday:jci": {
-   "checked": "2026-11-10T19:46:52+00:00",
+   "checked": "2026-11-11T06:30:04+00:00",
    "company": "Johnson Controls",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:jj": {
-   "checked": "2026-11-10T19:47:22+00:00",
+   "checked": "2026-11-11T06:30:28+00:00",
    "company": "Johnson & Johnson",
    "error": null,
    "ok": true,
-   "raw": 4
+   "raw": 3
   },
   "workday:kbr": {
-   "checked": "2026-11-10T19:46:48+00:00",
+   "checked": "2026-11-11T06:29:57+00:00",
    "company": "KBR",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:kla": {
-   "checked": "2026-11-10T19:47:22+00:00",
+   "checked": "2026-11-11T06:30:28+00:00",
    "company": "KLA",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:lumentum": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Lumentum",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:marvell": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Marvell",
    "error": null,
    "ok": true,
-   "raw": 3
+   "raw": 0
   },
   "workday:medtronic": {
-   "checked": "2026-11-10T19:47:22+00:00",
+   "checked": "2026-11-11T06:30:28+00:00",
    "company": "Medtronic",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 0
   },
   "workday:micron": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Micron",
    "error": null,
    "ok": true,
-   "raw": 3
+   "raw": 0
   },
   "workday:motorolasolutions": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Motorola Solutions",
-   "error": null,
-   "ok": true,
-   "raw": 2
-  },
-  "workday:novartis": {
-   "checked": "2026-11-10T19:47:22+00:00",
-   "company": "Novartis",
    "error": null,
    "ok": true,
    "raw": 1
   },
+  "workday:novartis": {
+   "checked": "2026-11-11T06:30:28+00:00",
+   "company": "Novartis",
+   "error": null,
+   "ok": true,
+   "raw": 0
+  },
   "workday:nvidia": {
-   "checked": "2026-11-10T19:47:22+00:00",
+   "checked": "2026-11-11T06:30:28+00:00",
    "company": "NVIDIA",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "workday:nxp": {
-   "checked": "2026-11-10T19:47:22+00:00",
+   "checked": "2026-11-11T06:30:28+00:00",
    "company": "NXP",
    "error": "HTTPError: HTTP Error 422: Unprocessable Entity",
    "ok": false,
    "raw": 0
   },
   "workday:pfizer": {
-   "checked": "2026-11-10T19:47:22+00:00",
+   "checked": "2026-11-11T06:30:28+00:00",
    "company": "Pfizer",
    "error": null,
    "ok": true,
-   "raw": 2
+   "raw": 1
   },
   "workday:philips": {
-   "checked": "2026-11-10T19:47:22+00:00",
+   "checked": "2026-11-11T06:30:28+00:00",
    "company": "Philips",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:renishaw": {
-   "checked": "2026-11-10T19:46:48+00:00",
+   "checked": "2026-11-11T06:29:57+00:00",
    "company": "Renishaw",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:rockwellautomation": {
-   "checked": "2026-11-10T19:46:48+00:00",
+   "checked": "2026-11-11T06:29:57+00:00",
    "company": "Rockwell Automation",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:rollsroyce": {
-   "checked": "2026-11-10T19:46:39+00:00",
+   "checked": "2026-11-11T06:29:53+00:00",
    "company": "Rolls-Royce",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:sanofi": {
-   "checked": "2026-11-10T19:47:22+00:00",
+   "checked": "2026-11-11T06:30:28+00:00",
    "company": "Sanofi",
-   "error": null,
-   "ok": true,
-   "raw": 1
-  },
-  "workday:sec": {
-   "checked": "2026-11-10T19:47:48+00:00",
-   "company": "Samsung",
    "error": null,
    "ok": true,
    "raw": 0
   },
+  "workday:sec": {
+   "checked": "2026-11-11T06:30:32+00:00",
+   "company": "Samsung",
+   "error": null,
+   "ok": true,
+   "raw": 2
+  },
   "workday:shell": {
-   "checked": "2026-11-10T19:46:52+00:00",
+   "checked": "2026-11-11T06:30:04+00:00",
    "company": "Shell",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 2
   },
   "workday:sky": {
-   "checked": "2026-11-10T19:47:48+00:00",
+   "checked": "2026-11-11T06:30:32+00:00",
    "company": "Sky",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:smithnephew": {
-   "checked": "2026-11-10T19:47:22+00:00",
+   "checked": "2026-11-11T06:30:28+00:00",
    "company": "Smith+Nephew",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:stellantis": {
-   "checked": "2026-11-10T19:46:48+00:00",
+   "checked": "2026-11-11T06:29:57+00:00",
    "company": "Stellantis",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:stryker": {
-   "checked": "2026-11-10T19:47:22+00:00",
+   "checked": "2026-11-11T06:30:28+00:00",
    "company": "Stryker",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 0
   },
   "workday:thales": {
-   "checked": "2026-11-10T19:46:48+00:00",
+   "checked": "2026-11-11T06:29:57+00:00",
    "company": "Thales",
    "error": null,
    "ok": true,
-   "raw": 6
+   "raw": 0
   },
   "workday:unilever": {
-   "checked": "2026-11-10T19:46:48+00:00",
+   "checked": "2026-11-11T06:29:57+00:00",
    "company": "Unilever",
    "error": null,
    "ok": true,
    "raw": 0
   }
  },
- "updated_at": "2026-11-10T19:47:48+00:00"
+ "updated_at": "2026-11-11T06:30:32+00:00"
 }
