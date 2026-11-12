@@ -14,7 +14,7 @@
    "id": "01c0ff299867",
    "last_seen": "2026-11-12T07:17:00+00:00",
    "location": "UK, Bristol; Switzerland, Zurich",
-   "misses": 0,
+   "misses": 1,
    "posted": "2026-10-14",
    "sector": "Semiconductors & Compute",
    "source": "workday",
@@ -36,7 +36,7 @@
    ],
    "first_seen": "2026-11-11T19:40:00+00:00",
    "id": "02f8d4db7ea7",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Larne, County Antrim",
    "misses": 0,
    "posted": "2026-11-11",
@@ -60,7 +60,7 @@
    ],
    "first_seen": "2026-11-06T06:53:02+00:00",
    "id": "04f5197cd726",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Desford, United Kingdom",
    "misses": 0,
    "posted": "2026-11-06",
@@ -135,7 +135,7 @@
    ],
    "first_seen": "2026-11-05T20:00:29+00:00",
    "id": "0c91c663d3b1",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Worcester, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-05",
@@ -178,13 +178,13 @@
    "country": "",
    "cycle": "2027",
    "deadline": null,
-   "description": "Location: Bristol, UK\n Salary: £2500 per month\n Start date: June 2027\n Application deadline : Midnight, 29th November 2026 \n We encourage you to apply early, as we may close applications before the advertised deadline. \n\n The Internship Programme at Graphcore\n\n Explore a career at Graphcore through a 12-week summer internship, gaining hands-on experience on real projects. You’ll bring fresh ideas, put your learning into practice and help shape what we’re creating. Along the way, you’ll tackle challenging problems with a team who welcome your questions and support you as you build your skills and confidence.\n\n What you’ll work on\n\n Use your programming skills and curiosity to help AI models run efficiently on next-generation Graphcore hardware. \n\n In AI Compute Libraries & Performance, you’ll contribute to C++ libraries and compute kernels for machine learning workloads. Your work will include: \n\n \n Developing compute kernels: Implement and improve operations such as matrix multiplication (GEMM), convolutions, reductions, elementwise operations and fused kernels that combine multiple operations. \n\n Understanding and improving performance: Use profiling and microbenchmarks to measure execution speed and investigate how threading, cache locality, memory layout and kernel launch efficiency affect performance. \n\n Checking correctness and reliability: Build regression tests and numerical checks, investigate issues and improve the quality of the libraries our customers use. \n\n \n Through these projects, you’ll develop practical experience connecting numerical computing with how code runs on hardware, helping deliver software that is fast, accurate and reliable. \n\n Your team and support\n\n You’ll join a team building high-performance compute libraries that help customers get more from Graphcore hardware. Our work brings together machine learning, numerical computing and accelerator performance, with colleagues sharing their expertise to solve engineering problems.\n\n You’ll contribute to clearly scoped projects and build your skills with guidance from engineers working in performance and low-level software. Together, we use profiling, experiments and technical reviews to compare approaches, understand trade-offs and improve our solutions. \n\n Your buddy will help you settle in, get familiar with our tools and ways of working, and find the right people to ask. Your manager will meet with you regularly to agree goals, offer feedback and discuss your development, including time for learning. \n\n We welcome different perspectives and make space for everyone to contribute. Questions, alternative approaches and requests for help are part of how we work. As you take on more responsibility, your colleagues will help you work through challenges, and your ideas will be listened to and discussed respectfully. \n\n How you’ll learn and grow\n\n Over the 12 weeks, you’ll build performance engineering skills through hands-on work on compute kernels, benchmarks and tests. \n\n Profiling and experiments will help you understand where time is spent and how changes to code and data layout affect performance. Numerical validation and regression testing will show you how to check that an optimisation preserves correct results and continues to work as software changes. \n\n Working with specialists and discussing technical trade-offs will help you develop your engineering judgement, explain your findings and connect mathematical operations to efficient implementations on hardware. \n\n What we're looking for\n\n \n Currently studying towards a bachelor’s or master’s degree in Computer Science, Maths, Machine Learning, Data Science or a related field\n\n Experience with C or C++11, plus familiarity with Python or scripting tools for automation and testing\n\n An understanding of linear algebra, numerical methods or scientific computing\n\n Problem-solving skills and collaborative approach to unfamiliar technical challenges\n\n \n Previous industry experience is not required. Tell us what you built or investigated through coursework, personal or team projects or other relevant experience, how you approached it and what you learned.\n\n Coursework or experience with machine learning frameworks, parallel programming, code optimisation, maths libraries or performance analysis would be useful. These are additional strengths, rather than essential requirements.\n\n Benefits\n\n \n Flexible working: Find a balance between your internship and life outside work\n\n 5 days of annual leave: Take time to rest and recharge during your 12-week internship\n\n Life in the office: Get to know your colleagues in spaces designed for collaboration, with free food, a great selection of ice cream and an on-site barista\n\n Learning and development: Build your skills and explore your interests with access to O’Reilly, our online learning platform\n\n \n We welcome people from all backgrounds and experiences and are committed to building an inclusive environment where everyone can do their best work.\n\n We’re an equal opportunity employer and recognise that everyone brings different strengths and perspectives. If you need any adjustments during the interview process, just let us know - we’re happy to support you.\n\n Sponsorship\n\n Applicants must already have the right to work in the UK for the full duration of the programme, without requiring visa sponsorship. We are unable to sponsor work visas for our Early Careers opportunities.\n\n Introduction to Graphcore\n\n At Graphcore, we’re building next generation AI compute: From semiconductors and software to systems at datacenter scale. We are proud to be owned by SoftBank Group and work with other companies in the SoftBank family to deliver AI compute to customers working at the AI frontier.\nStarting your career here means working alongside people with different backgrounds and expertise, from AI researchers to chip designers and software engineers. You’ll learn from each other, bring fresh ideas and help solve challenging problems together.\n\n How to apply and what to expect \n\n To apply, answer the application questions below and upload your CV and cover letter. We’ll let you know the outcome of your application by early December at the latest. If successful, you’ll be invited to complete a technical assessment. Candidates who reach the final stage will then be invited to attend in-person assessments in early spring.\n\n Curious about where your skills could take you? Apply for a summer internship at Graphcore and help us build what comes next.",
+   "description": "Location: Bristol, UK\n Salary: £2500 per month\n Start date: June 2027\n Application deadline : Midnight, 18th November 2026 \n Due to the high volume of applications, we are closing this advert earlier than originally planned. The advert will now close Midnight, 18th November 2026. \n\n The Internship Programme at Graphcore\n\n Explore a career at Graphcore through a 12-week summer internship, gaining hands-on experience on real projects. You’ll bring fresh ideas, put your learning into practice and help shape what we’re creating. Along the way, you’ll tackle challenging problems with a team who welcome your questions and support you as you build your skills and confidence.\n\n What you’ll work on\n\n Use your programming skills and curiosity to help AI models run efficiently on next-generation Graphcore hardware. \n\n In AI Compute Libraries & Performance, you’ll contribute to C++ libraries and compute kernels for machine learning workloads. Your work will include: \n\n \n Developing compute kernels: Implement and improve operations such as matrix multiplication (GEMM), convolutions, reductions, elementwise operations and fused kernels that combine multiple operations. \n\n Understanding and improving performance: Use profiling and microbenchmarks to measure execution speed and investigate how threading, cache locality, memory layout and kernel launch efficiency affect performance. \n\n Checking correctness and reliability: Build regression tests and numerical checks, investigate issues and improve the quality of the libraries our customers use. \n\n \n Through these projects, you’ll develop practical experience connecting numerical computing with how code runs on hardware, helping deliver software that is fast, accurate and reliable. \n\n Your team and support\n\n You’ll join a team building high-performance compute libraries that help customers get more from Graphcore hardware. Our work brings together machine learning, numerical computing and accelerator performance, with colleagues sharing their expertise to solve engineering problems.\n\n You’ll contribute to clearly scoped projects and build your skills with guidance from engineers working in performance and low-level software. Together, we use profiling, experiments and technical reviews to compare approaches, understand trade-offs and improve our solutions. \n\n Your buddy will help you settle in, get familiar with our tools and ways of working, and find the right people to ask. Your manager will meet with you regularly to agree goals, offer feedback and discuss your development, including time for learning. \n\n We welcome different perspectives and make space for everyone to contribute. Questions, alternative approaches and requests for help are part of how we work. As you take on more responsibility, your colleagues will help you work through challenges, and your ideas will be listened to and discussed respectfully. \n\n How you’ll learn and grow\n\n Over the 12 weeks, you’ll build performance engineering skills through hands-on work on compute kernels, benchmarks and tests. \n\n Profiling and experiments will help you understand where time is spent and how changes to code and data layout affect performance. Numerical validation and regression testing will show you how to check that an optimisation preserves correct results and continues to work as software changes. \n\n Working with specialists and discussing technical trade-offs will help you develop your engineering judgement, explain your findings and connect mathematical operations to efficient implementations on hardware. \n\n What we're looking for\n\n \n Currently studying towards a bachelor’s or master’s degree in Computer Science, Maths, Machine Learning, Data Science or a related field\n\n Experience with C or C++11, plus familiarity with Python or scripting tools for automation and testing\n\n An understanding of linear algebra, numerical methods or scientific computing\n\n Problem-solving skills and collaborative approach to unfamiliar technical challenges\n\n \n Previous industry experience is not required. Tell us what you built or investigated through coursework, personal or team projects or other relevant experience, how you approached it and what you learned.\n\n Coursework or experience with machine learning frameworks, parallel programming, code optimisation, maths libraries or performance analysis would be useful. These are additional strengths, rather than essential requirements.\n\n Benefits\n\n \n Flexible working: Find a balance between your internship and life outside work\n\n 5 days of annual leave: Take time to rest and recharge during your 12-week internship\n\n Life in the office: Get to know your colleagues in spaces designed for collaboration, with free food, a great selection of ice cream and an on-site barista\n\n Learning and development: Build your skills and explore your interests with access to O’Reilly, our online learning platform\n\n \n We welcome people from all backgrounds and experiences and are committed to building an inclusive environment where everyone can do their best work.\n\n We’re an equal opportunity employer and recognise that everyone brings different strengths and perspectives. If you need any adjustments during the interview process, just let us know - we’re happy to support you.\n\n Sponsorship\n\n Applicants must already have the right to work in the UK for the full duration of the programme, without requiring visa sponsorship. We are unable to sponsor work visas for our Early Careers opportunities.\n\n Introduction to Graphcore\n\n At Graphcore, we’re building next generation AI compute: From semiconductors and software to systems at datacenter scale. We are proud to be owned by SoftBank Group and work with other companies in the SoftBank family to deliver AI compute to customers working at the AI frontier.\nStarting your career here means working alongside people with different backgrounds and expertise, from AI researchers to chip designers and software engineers. You’ll learn from each other, bring fresh ideas and help solve challenging problems together.\n\n How to apply and what to expect \n\n To apply, answer the application questions below and upload your CV and cover letter. We’ll let you know the outcome of your application by early December at the latest. If successful, you’ll be invited to complete a technical assessment. Candidates who reach the final stage will then be invited to attend in-person assessments in early spring.\n\n Curious about where your skills could take you? Apply for a summer internship at Graphcore and help us build what comes next.",
    "disciplines": [
     "Software & Data"
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "17c026daa6c2",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -208,7 +208,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "1a0ee2560348",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -232,7 +232,7 @@
    ],
    "first_seen": "2026-11-10T19:47:48+00:00",
    "id": "1ee1676b321d",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Winnersh, Berkshire, United Kingdom",
    "misses": 0,
    "posted": "2026-11-10",
@@ -306,7 +306,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "2b904914dd31",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Denham, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-20",
@@ -380,7 +380,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "341a7e4140af",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "United Kingdom, Newbury",
    "misses": 0,
    "posted": "2026-10-19",
@@ -480,7 +480,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "4200c4c27fba",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -581,7 +581,7 @@
    ],
    "first_seen": "2026-11-10T19:47:48+00:00",
    "id": "494aa603f4ab",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Desford, United Kingdom; Stockton, United Kingdom",
    "misses": 0,
    "posted": "2026-11-10",
@@ -656,7 +656,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "505ac7a9f90c",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -859,7 +859,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "652c1476882e",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "United Kingdom, Edinburgh, SC, Freer",
    "misses": 0,
    "posted": "2026-10-21",
@@ -984,7 +984,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "6f445038395f",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -1008,7 +1008,7 @@
    ],
    "first_seen": "2026-11-04T19:48:58+00:00",
    "id": "6fe847e6a408",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Chesterfield, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-04",
@@ -1035,7 +1035,7 @@
    ],
    "first_seen": "2026-10-23T16:24:33+00:00",
    "id": "708053078255",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "United Kingdom, Edinburgh, SC, Freer",
    "misses": 0,
    "posted": "2026-10-23",
@@ -1059,7 +1059,7 @@
    ],
    "first_seen": "2026-11-04T19:48:58+00:00",
    "id": "70d09d9d70ec",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Worcester, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-04",
@@ -1085,7 +1085,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "728d3bbdead6",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Coventry, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-13",
@@ -1109,7 +1109,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "79961ef55cef",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "London - Shell Centre",
    "misses": 0,
    "posted": "2026-09-15",
@@ -1158,7 +1158,7 @@
    ],
    "first_seen": "2026-11-03T14:22:36+00:00",
    "id": "7d779adf5ae8",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Worcester, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-03",
@@ -1182,7 +1182,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "811912981033",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -1258,7 +1258,7 @@
    ],
    "first_seen": "2026-10-27T22:18:26+00:00",
    "id": "86851580ccbc",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "GBR - Bristol, UK; GBR - Yeovil, UK, GBR - Fleet, UK",
    "misses": 0,
    "posted": "2026-10-27",
@@ -1384,7 +1384,7 @@
    ],
    "first_seen": "2026-11-04T19:48:58+00:00",
    "id": "8e4b30927814",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Worcester, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-04",
@@ -1433,7 +1433,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "971cf2e16730",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Winnersh, United Kingdom",
    "misses": 0,
    "posted": "2026-10-16",
@@ -1458,7 +1458,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "9b462e7aedd1",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Birmingham, West Midlands, United Kingdom",
    "misses": 0,
    "posted": "2026-09-14",
@@ -1482,7 +1482,7 @@
    ],
    "first_seen": "2026-11-10T19:47:48+00:00",
    "id": "9b8001dbcda0",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "United Kingdom- London – Zihipp",
    "misses": 0,
    "posted": "2026-11-10",
@@ -1531,7 +1531,7 @@
    ],
    "first_seen": "2026-11-05T20:00:29+00:00",
    "id": "a0a2c403087d",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Leeds, West Yorkshire, United Kingdom",
    "misses": 0,
    "posted": "2026-11-05",
@@ -1555,7 +1555,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "aa99354746e9",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Coventry, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-08",
@@ -1706,7 +1706,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "c3e5f26a7f95",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "United Kingdom, Edinburgh, SC, Freer",
    "misses": 0,
    "posted": "2026-10-20",
@@ -1731,7 +1731,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "c51adce6d83e",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "United Kingdom, Edinburgh, SC, Freer; United Kingdom, Hayes, United Kingdom, Glasgow, United Kingdom, Newbury",
    "misses": 0,
    "posted": "2026-09-26",
@@ -1755,7 +1755,7 @@
    ],
    "first_seen": "2026-11-08T06:07:36+00:00",
    "id": "c559c98a5c27",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Larne, County Antrim",
    "misses": 0,
    "posted": "2026-11-08",
@@ -1779,7 +1779,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "c9accae87167",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Bristol, UK; Cambridge, UK; Bristol, UK; Cambridge, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -1878,7 +1878,7 @@
    ],
    "first_seen": "2026-11-04T19:48:58+00:00",
    "id": "cc8b008c7ad1",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Chesterfield, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-04",
@@ -1931,7 +1931,7 @@
    "duplicate_of": "708053078255",
    "first_seen": "2026-10-23T16:24:33+00:00",
    "id": "d04366d31e1c",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "United Kingdom, Newbury",
    "misses": 0,
    "posted": "2026-10-23",
@@ -1980,7 +1980,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "d41c8de7b25b",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -2004,7 +2004,7 @@
    ],
    "first_seen": "2026-11-04T19:48:58+00:00",
    "id": "d4380c01e446",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Worcester, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-04",
@@ -2029,7 +2029,7 @@
    "duplicate_of": "eda4ad45934a",
    "first_seen": "2026-11-09T22:25:44+00:00",
    "id": "d6707c9e3a52",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Worcester, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-09",
@@ -2053,7 +2053,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "d688d7e82201",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Denham, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-13",
@@ -2128,7 +2128,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "de0db35639d7",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Bristol, UK",
    "misses": 0,
    "posted": "2026-10-20",
@@ -2202,7 +2202,7 @@
    "duplicate_of": "d688d7e82201",
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "e733e824a0a8",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Denham, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-13",
@@ -2226,7 +2226,7 @@
    ],
    "first_seen": "2026-10-29T13:08:25+00:00",
    "id": "e858881f139b",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Worcester, , United Kingdom",
    "misses": 0,
    "posted": "2026-10-29",
@@ -2355,7 +2355,7 @@
    ],
    "first_seen": "2026-11-04T19:48:58+00:00",
    "id": "eda4ad45934a",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Worcester, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-04",
@@ -2404,7 +2404,7 @@
    "duplicate_of": "728d3bbdead6",
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "f2194c3f4bd1",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Basildon, England, United Kingdom",
    "misses": 0,
    "posted": "2026-10-13",
@@ -2453,7 +2453,7 @@
    ],
    "first_seen": "2026-10-22T01:05:59+00:00",
    "id": "f8780b19658f",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "High Wycombe, Buckinghamshire, United Kingdom; Maidenhead, Berkshire, United Kingdom",
    "misses": 0,
    "posted": "2026-10-20",
@@ -2502,7 +2502,7 @@
    ],
    "first_seen": "2026-11-03T14:22:36+00:00",
    "id": "f95576b4c3a0",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Chesterfield, England, United Kingdom",
    "misses": 0,
    "posted": "2026-11-03",
@@ -2600,7 +2600,7 @@
    ],
    "first_seen": "2026-11-09T06:40:45+00:00",
    "id": "fd4d425f69db",
-   "last_seen": "2026-11-12T07:17:00+00:00",
+   "last_seen": "2026-11-12T19:58:50+00:00",
    "location": "Larne, County Antrim",
    "misses": 0,
    "posted": "2026-11-09",
@@ -2667,6 +2667,7 @@
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Apodaca-Nuevo-Len-Mexico/Recruitment-internship_JR00049337": "2026-10-22T01:19:42+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Arecibo-Puerto-Rico/Spring-Intern_JR00019587-1": "2026-11-06T19:28:07+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Arecibo-Puerto-Rico/Spring-Intern_JR00049154": "2026-10-22T01:19:42+00:00",
+  "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Arraijan-Panam-Oeste-Panama/IS-Functional-Analyst-Intern_JR00036563": "2026-11-12T19:58:50+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Aspire-Internship---Marketing--Finance--Supply-Chain--Information-Technology_JR00033993-1": "2026-10-22T01:19:42+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Bac-Ninh-Tuyn-Quang-Vietnam/Purchasing---Logistics-Intern_JR00048913": "2026-10-22T01:19:42+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Baden-Daettwil-Aargau-Switzerland/Internship-in-Domain-Adaptation-for-Time-Series-Using-Deep-Learning--80-100--_JR00026201": "2026-10-22T01:19:42+00:00",
@@ -2684,6 +2685,7 @@
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Dalmine-Bergamo-Italy/Internship---Order-Handling-and-Customer-Support-specialist_JR00047498": "2026-10-23T16:24:33+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Dalmine-Bergamo-Italy/Internship---Trade-Product-Classification-Engineer_JR00043876": "2026-10-22T01:19:42+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Dorval-Quebec-Canada/Manufacturing-Engineering-Intern-Winter-2027_JR00051511": "2026-11-03T01:01:22+00:00",
+  "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Dorval-Quebec-Canada/Trade-Compliance-Intern-Winter-2027_JR00052505": "2026-11-12T19:58:50+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726": "2026-10-22T01:19:42+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Global-Customer-Support-Intern--Summer-2027_JR00027244": "2026-10-22T01:19:42+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727": "2026-10-22T01:19:42+00:00",
@@ -2714,6 +2716,7 @@
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Student-Internship-in-Finance-Team_JR00052575": "2026-11-04T19:48:58+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Student-Internship-in-HR-Services-with-Italian_JR00052275": "2026-11-02T16:03:03+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Student-Internship-in-HR-Services-with-Spanish_JR00045657": "2026-10-22T01:19:42+00:00",
+  "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Student-Internship-in-Project-Management_JR00053145": "2026-11-12T19:58:50+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Lodz-Lodz-Poland/Student-Internship---Statutory-Compliance-Academy_JR00048270": "2026-10-22T01:19:42+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Lodz-Lodz-Poland/Student-Internship---UX-Designer_JR00048119-1": "2026-10-22T01:19:42+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Lodz-Lodz-Poland/Student-Internship-in-the-Administration-Team_JR00051196": "2026-10-22T01:19:42+00:00",
@@ -2751,6 +2754,7 @@
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Sant-Quirze-del-Valles-Barcelona-Spain/Internship--Customer-Operations-Department--customer-service-and-order-management_JR00039581": "2026-10-23T16:24:33+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Sant-Quirze-del-Valles-Barcelona-Spain/Internship--Trainee-Motion-Service--Drives--machines-and-generators-_JR00052923-1": "2026-11-06T19:28:07+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Sesto-San-Giovanni-Milano-Italy/Internship---Order-Handling-Specialist_JR00046692-1": "2026-10-22T01:19:42+00:00",
+  "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Sesto-San-Giovanni-Milano-Italy/Internship-Project-Management_JR00052639": "2026-11-12T19:58:50+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Shanghai-Shanghai-China/Intern-_JR00047005-1": "2026-10-23T16:24:33+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Shanghai-Shanghai-China/Intern_JR00051285": "2026-10-25T11:37:16+00:00",
   "https://abb.wd3.myworkdayjobs.com/en-US/External_Career_Page/job/Shanghai-Shanghai-China/Intern_JR00052709-1": "2026-11-05T06:53:26+00:00",
@@ -2907,6 +2911,7 @@
   "https://amat.wd1.myworkdayjobs.com/en-US/External/job/TempeAZ/Electrical-Engineer-Intern_R2631303": "2026-10-22T01:19:42+00:00",
   "https://amat.wd1.myworkdayjobs.com/en-US/External/job/TempeAZ/Metrology-Engineer-Co-op-Intern---Undergraduate--Winter-Spring-2027-_R2632419": "2026-11-05T20:00:29+00:00",
   "https://amat.wd1.myworkdayjobs.com/en-US/External/job/TrevisoITA/Supplier-Industrial-Engineer--Internship-_R2613391": "2026-10-22T01:19:42+00:00",
+  "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Canada-Ottawa/Product-Engineering--Prod-Dev--Intern_R267447": "2026-11-12T19:58:50+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614": "2026-10-22T01:19:42+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Hamburg/Product-Applications---Systems-Pipeline-Intern_R267127": "2026-10-23T16:24:33+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Analog-Design-Engineering-Intern_R267032-1": "2026-10-22T01:19:42+00:00",
@@ -2930,6 +2935,7 @@
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Philippines-Cavite-GTC/Technician-Student-Intern_R264493": "2026-10-22T01:19:42+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Philippines-Cavite-jp/Finance-Intern_R265632": "2026-10-22T01:19:42+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineer-Intern_R267116": "2026-11-03T14:22:36+00:00",
+  "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineering-Intern_R267115-1": "2026-11-12T19:58:50+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Spain-Valencia-Cortes-Valencianas/FY27--Engineering-Intern---Hardware--Software---Systems_R265309": "2026-10-22T01:19:42+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Spain-Valencia-Cortes-Valencianas/Layout-Designer-Intern_R267121": "2026-10-22T01:19:42+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Spain-Valencia-Cortes-Valencianas/Layout-Designer-Intern_R267124": "2026-10-22T01:19:42+00:00",
@@ -2943,6 +2949,7 @@
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Thailand-Chon-Buri/Intern---Engineering_R269479": "2026-11-04T19:48:58+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Thailand-Chon-Buri/Intern---Government-Relations_R269372": "2026-10-30T05:54:24+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Turkey-Istanbul-Bilisim-Vadisi/Embedded-Software-Engineering-Intern_R267001": "2026-10-23T16:24:33+00:00",
+  "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Turkey-Istanbul-Bilisim-Vadisi/Embedded-Software-Engineering-Intern_R267002": "2026-11-12T19:58:50+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Turkey-Istanbul-Bilisim-Vadisi/RF-Design-Engineering-Intern_R266998": "2026-11-03T14:22:36+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Turkey-Istanbul-Bilisim-Vadisi/RF-Design-Engineering-Summer-Intern_R266999-1": "2026-11-03T14:22:36+00:00",
   "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Turkey-Istanbul-Bilisim-Vadisi/Software-Development-Engineering-Intern_R267000-1": "2026-10-22T01:19:42+00:00",
@@ -3062,6 +3069,7 @@
   "https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sourcing---Sourcing-Initiatives---2027--M-F-D-_R170298": "2026-10-22T01:19:42+00:00",
   "https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sourcing---Supplier-Execution-Continuous-Improvement-Initiatives---2027-Opportunities--M-F-D-_R170984": "2026-11-04T19:48:58+00:00",
   "https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sourcing-Initiative-Coordinator---Regions-Commodity-Initiatives--2027--M-F-D-_R171162": "2026-10-26T22:43:22+00:00",
+  "https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sourcing-Intern---Pro-Log-Initiatives---2027-Opportunities--M-F-D-_R171955": "2026-11-12T19:58:50+00:00",
   "https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sourcing-Specialist---2027--M-F-D-_R170763": "2026-10-22T01:19:42+00:00",
   "https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Supplier-Quality---2027--M-F-D-_R171661": "2026-11-03T14:22:36+00:00",
   "https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/IT-MS-AVENZA--VIALE-DOMENICO-ZACCAGNA-12/Intern---Manufacturing---2027--M-F-D-_R169783": "2026-10-22T01:19:42+00:00",
@@ -3459,6 +3467,7 @@
   "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Quantum-Technology-Services-Intern--Summer-2027-_JR-2604438": "2026-10-22T01:19:42+00:00",
   "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Reliability-Test-Engineering-Intern--Summer-2027-_JR-2604361": "2026-10-22T01:19:42+00:00",
   "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604269": "2026-10-22T01:19:42+00:00",
+  "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604266": "2026-11-12T19:58:50+00:00",
   "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Reliability-Engineering-Intern--Summer-2027-_JR-2604258": "2026-10-22T01:19:42+00:00",
   "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Technology-Architecture-Engineering-Intern--Summer-2027-_JR-2604362": "2026-10-22T01:19:42+00:00",
   "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/XMLNAME-3D-Heterogeneous-Integration-Development-Intern--Summer-2027-_JR-2604433": "2026-10-22T01:19:42+00:00",
@@ -3680,6 +3689,7 @@
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bogota-Cundinamarca-Colombia/Intern_1214129": "2026-10-22T01:19:42+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bogota-Cundinamarca-Colombia/Intern_1216575": "2026-10-22T01:19:42+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bogota-Cundinamarca-Colombia/Intern_1216580": "2026-10-22T01:19:42+00:00",
+  "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bogota-Cundinamarca-Colombia/Intern_1216596": "2026-11-12T19:58:50+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bolzano-Vicentino-Vicenza-Italy/Intern-Master-Tech_1213977": "2026-10-28T22:39:21+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bratislava-22-Bratislavsk-kraj-Slovakia/Automation-Intern_1213207": "2026-10-22T01:19:42+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bucharest-Ilfov-Romania/Customer-Experience-Internship_1195799": "2026-10-22T01:19:42+00:00",
@@ -3706,6 +3716,7 @@
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Herzliya-Israel/Backend-Intern_1211020-1": "2026-10-22T01:19:42+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Herzliya-Israel/Product-Owner---Part-Time-Intern_1211007": "2026-10-22T01:19:42+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Kutna-Hora-Czech-Republic/AI---Automation-Intern---Product-Engineering---NPI_1216274": "2026-10-29T13:08:25+00:00",
+  "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Las-Rozas-Madrid-Spain/Data-Services-Business-Support---Part-Time-Internship_1217184-1": "2026-11-12T19:58:50+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Las-Rozas-Madrid-Spain/HPE-Commercial-Support---Part-time-Internship_1217183-1": "2026-11-11T19:40:00+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/London-London-United-Kingdom/Communications---Programmes-Interns_1216771": "2026-10-26T22:43:22+00:00",
   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/London-London-United-Kingdom/Sales-Intern_1216754": "2026-11-11T19:40:00+00:00",
@@ -3883,6 +3894,7 @@
   "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Manufacturing-and-Process-Development---Intern--Graduate_JR0286833": "2026-10-22T01:19:42+00:00",
   "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827": "2026-10-22T01:19:42+00:00",
   "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828": "2026-10-22T01:19:42+00:00",
+  "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/SLT-Mechanical-Design-Intern_JR0286720": "2026-11-12T19:58:50+00:00",
   "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829": "2026-10-22T01:19:42+00:00",
   "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830": "2026-10-22T01:19:42+00:00",
   "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834": "2026-10-22T01:19:42+00:00",
@@ -3923,6 +3935,7 @@
   "https://jci.wd5.myworkdayjobs.com/en-US/jci/job/Singapore-Singapore-Singapore/Intern--Data-Analytics_WD30266779": "2026-10-22T01:19:42+00:00",
   "https://jci.wd5.myworkdayjobs.com/en-US/jci/job/Singapore-Singapore-Singapore/Intern--Design---Estimation-Engineering_WD30284733": "2026-11-10T07:24:18+00:00",
   "https://jci.wd5.myworkdayjobs.com/en-US/jci/job/Singapore-Singapore-Singapore/Intern--Project-Engineer_WD30283995": "2026-11-05T20:00:29+00:00",
+  "https://jci.wd5.myworkdayjobs.com/en-US/jci/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046": "2026-11-12T19:58:50+00:00",
   "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Beerse-Antwerp-Belgium/Internship---Analytical-Chemistry_R-102271": "2026-10-22T01:19:42+00:00",
   "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Beerse-Antwerp-Belgium/Internship---Analytical-Chemistry_R-108925": "2026-11-04T19:48:58+00:00",
   "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Beerse-Antwerp-Belgium/Internship---Integrated-Data-Analytics-and-Reporting_R-106104": "2026-10-22T01:19:42+00:00",
@@ -4296,6 +4309,7 @@
   "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Almaty-Almaty-Kazakhstan/Intern-Sales---Business-Support_R79471-1": "2026-10-22T01:19:42+00:00",
   "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ankara-Ankara-Trkiye/Sales-Operations-Intern_R78959-1": "2026-10-22T01:19:42+00:00",
   "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bloemfontein-Free-State-South-Africa/Sales-Intern_R78059-1": "2026-10-22T01:19:42+00:00",
+  "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Caesarea-Haifa-Israel/Software-Test-Engineer---Student-Position_R81302": "2026-11-12T19:58:50+00:00",
   "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958": "2026-10-22T01:19:42+00:00",
   "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/CNC-Intern-2_R81487-1": "2026-11-06T06:53:02+00:00",
   "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Changzhou-Jiangsu-China/CNC-Intern-3_R81488-1": "2026-11-07T06:03:56+00:00",
@@ -4343,6 +4357,7 @@
   "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Trevoux-Rhne-Alpes-France/Stagiaire-en-Ergonomie-H-F_R65297": "2026-10-22T01:19:42+00:00",
   "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Intern-Sales-and-Marketing_R79094-1": "2026-10-22T01:19:42+00:00",
   "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Intern-Training-Academy-ACEE_R79519-1": "2026-10-22T01:19:42+00:00",
+  "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Remote-Sales-Intern_R80857-1": "2026-11-12T19:58:50+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876": "2026-10-22T01:19:42+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Avezzano-AQ-Italy/INTERN--DESIGN-ENGINEER_JR117316": "2026-11-10T19:47:48+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/DOW-SkillsBridge-Intern---Semiconductor-Equipment-Technician_JR108935": "2026-10-22T01:19:42+00:00",
@@ -4363,6 +4378,7 @@
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern--ID1-Equipment-Engineer_JR111232": "2026-10-22T01:19:42+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern--Technician--Process_JR112005": "2026-10-22T01:19:42+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern--YE-Physical-Failure-Analysis-Engineer_JR114537": "2026-11-03T01:01:22+00:00",
+  "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Physical-Failure-Analysis-Technician---6-Month-Intern-2027_JR114535": "2026-11-12T19:58:50+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934": "2026-10-27T22:18:26+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---ADV-DRAM-Process-Integration-Engineer_JR109595": "2026-10-22T01:19:42+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---AMHS-Equipment-Engineer-ID1_JR115126": "2026-10-22T01:19:42+00:00",
@@ -4382,6 +4398,7 @@
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053": "2026-10-22T01:19:42+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---EUV-Lithography_JR107843": "2026-10-22T01:19:42+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---HVM-Area-Manufacturing-Engineer--AME-_JR116168": "2026-11-03T01:01:22+00:00",
+  "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582": "2026-11-12T19:58:50+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941": "2026-10-22T01:19:42+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838": "2026-10-27T22:18:26+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Node-Development-Product-Engineer---DRAM-Technology_JR111846": "2026-10-22T01:19:42+00:00",
@@ -4417,6 +4434,7 @@
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Procurement-Cost-Analyst_JR112690": "2026-10-22T01:19:42+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Strategic-Category-Analyst_JR115962": "2026-10-28T22:39:21+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---SIG-Building/Embedded-Software-Engineering-Intern_JR115959": "2026-10-28T22:39:21+00:00",
+  "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10A-Singapore/Intern---AI-Product-Management_JR112782": "2026-11-12T19:58:50+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10A-Singapore/Intern---FE-Capital-Equipment-Site-Operations_JR112029": "2026-10-22T01:19:42+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10A-Singapore/Intern---FE-Materials-Global-Category-Supplier-Management_JR112336": "2026-11-12T07:17:00+00:00",
   "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10A-Singapore/Intern---FE-Materials-Procurement-Operations_JR109625": "2026-10-22T01:19:42+00:00",
@@ -4581,6 +4599,7 @@
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Inside-Sales-Intern--Summer-2027-Internship-_R68989": "2026-10-22T01:19:42+00:00",
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Marketing---2027-Summer-Internship_R68908": "2026-10-22T01:19:42+00:00",
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Motorola-Solutions-Foundation---2027-Summer-Internship_R68722": "2026-10-27T22:18:26+00:00",
+  "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657": "2026-11-12T19:58:50+00:00",
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Presales-Engineering-Intern--Summer-2027-Internship_R69922": "2026-10-26T22:43:22+00:00",
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Product-Quality-Engineering-Intern_R68669": "2026-10-22T01:19:42+00:00",
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Repair-Effectiveness-Internship-Summer-2027_R68426": "2026-10-22T01:19:42+00:00",
@@ -4925,6 +4944,7 @@
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Lodz/Site-Planning-Intern--all-genders-_588261": "2026-10-27T22:18:26+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Lodz/Sourcing-Management-Intern--all-genders-_593420": "2026-10-22T01:19:42+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Lodz/Trade-Compliance-Intern--all-genders-_595117": "2026-11-06T19:28:07+00:00",
+  "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Madrid/EI-Intern-2_595220": "2026-11-12T19:58:50+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Madrid/Internship--Customer-Care-Support-Intern_593156": "2026-10-22T01:19:42+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Madrid/Internship--Service-Commercial-Support-Intern_593680": "2026-10-23T16:24:33+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Madrid/Supply-Chain-Demand-Support-Intern_593489-1": "2026-10-25T20:55:11+00:00",
@@ -4942,6 +4962,7 @@
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Orlando-Florida-United-States/Intern-Regulatory-Affairs-Orlando--FL-Summer-2027_590096-1": "2026-11-05T20:00:29+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Plymouth-Minnesota-United-States/Finance-Intern_592696": "2026-10-29T22:48:44+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Advanced-Manufacturing-Engineer---Plymouth--MN---Summer-2027_594522": "2026-10-29T22:48:44+00:00",
+  "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Project-Management---Plymouth--MN---Summer-2027_593002": "2026-11-12T19:58:50+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406": "2026-10-22T01:19:42+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Pune/Intern---HIC---Pune_583018": "2026-10-27T12:18:18+00:00",
   "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op---Mechanical-Process-Engineer---Reedsville--PA---2026_592206": "2026-11-03T23:26:59+00:00",
@@ -5078,6 +5099,7 @@
   "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Frankfurt-am-Main/Internship-in-Computational-Biophysics-for-Protein-Property-Prediction--all-genders-_R2878939": "2026-11-11T19:40:00+00:00",
   "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Gentilly/Internship-6-months---financial-planning-and-performance_R2875345": "2026-10-22T01:19:42+00:00",
   "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Guangzhou/CV-T-Commercial-Intern-_R2875331": "2026-10-26T13:10:07+00:00",
+  "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Guangzhou/DBU-Commercial-Intern-_R2878495": "2026-11-12T19:58:50+00:00",
   "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Lyon/internship-6-months---public-affairs-vaccines_R2872743": "2026-10-22T01:19:42+00:00",
   "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Lyon/internship-6-months--global-market-access-and-pricing_R2874165": "2026-10-22T01:19:42+00:00",
   "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Lyon/internship-6-months-communication-and-transformation-support_R2874254": "2026-10-22T01:19:42+00:00",
@@ -5100,6 +5122,7 @@
   "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Reading/Pharmacovigilance-Industrial-Placement_R2871752-1": "2026-10-22T01:06:43+00:00",
   "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Reading/Regulatory-Affairs---Industrial-Placement_R2874095": "2026-10-22T01:19:42+00:00",
   "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Reading/Supply-Chain-Intern---Customer-Fulfillment---Demand-Planning_R2873331-1": "2026-10-22T01:06:43+00:00",
+  "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Riyadh/Customer-Experience-Intern_R2878870-1": "2026-11-12T19:58:50+00:00",
   "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Scoppito/Launches-Project-Portfolio-Management-Internship_R2874543": "2026-11-02T16:03:03+00:00",
   "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Scoppito/Packaging-Internship_R2876140": "2026-10-23T16:24:33+00:00",
   "https://sanofi.wd3.myworkdayjobs.com/en-US/sanofiCareers/job/Scoppito/Quality-Systems-Internship----Digital---Validation-Projects_R2877329": "2026-11-02T16:03:03+00:00",
@@ -5297,6 +5320,7 @@
   "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Warsaw-Poland/Discover-Internship-Intercompany--R2R-_R573494": "2026-11-04T19:48:58+00:00",
   "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Warsaw-Poland/Discover-Internship-Intercompany--R2R-_R573782-1": "2026-10-22T01:19:42+00:00",
   "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Warsaw-Poland/Discover-Internship-Program_R575478": "2026-10-22T01:19:42+00:00",
+  "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Warsaw-Poland/Intern--Professional-Affairs-Specialist_R576481": "2026-11-12T19:58:50+00:00",
   "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Warsaw-Poland/Support-Analyst-Intern_R571969": "2026-10-22T01:19:42+00:00",
   "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732": "2026-10-22T01:19:42+00:00",
   "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Electrical-Engineering-Intern---Weston--FL_R572740": "2026-10-22T01:19:42+00:00",
@@ -5380,572 +5404,572 @@
  },
  "sources": {
   "ashby:enpal": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Enpal",
    "error": null,
    "ok": true,
    "raw": 14
   },
   "ashby:humanoid": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Humanoid",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "ashby:lightsource": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Lightsource bp",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "ashby:oxa": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Oxa",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "ashby:skydio": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Skydio",
    "error": null,
    "ok": true,
    "raw": 25
   },
   "ashby:wayve": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Wayve",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:agilityrobotics": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Agility Robotics",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:apptronik": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Apptronik",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:asteralabs": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Astera Labs",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "greenhouse:dexory": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Dexory",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:figure": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Figure",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:flyzipline": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Zipline",
    "error": null,
    "ok": true,
    "raw": 62
   },
   "greenhouse:formlabs": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Formlabs",
    "error": null,
    "ok": true,
-   "raw": 33
+   "raw": 32
   },
   "greenhouse:fractile": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Fractile",
    "error": "HTTPError: HTTP Error 404: Not Found",
    "ok": false,
    "raw": 0
   },
   "greenhouse:graphcore": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Graphcore",
    "error": null,
    "ok": true,
    "raw": 10
   },
   "greenhouse:helsing": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Helsing",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "greenhouse:isaraerospace": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Isar Aerospace",
    "error": null,
    "ok": true,
    "raw": 3
   },
   "greenhouse:kodiak": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Kodiak",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "greenhouse:lightmatter": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Lightmatter",
    "error": null,
    "ok": true,
    "raw": 9
   },
   "greenhouse:monzo": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Monzo",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:neuralink": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Neuralink",
    "error": null,
    "ok": true,
    "raw": 18
   },
   "greenhouse:nuro": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Nuro",
    "error": null,
    "ok": true,
    "raw": 1
   },
   "greenhouse:ovoenergy": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "OVO Energy",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:psiquantum": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "PsiQuantum",
    "error": null,
    "ok": true,
    "raw": 5
   },
   "greenhouse:riverlane": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Riverlane",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:spire": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Spire Global",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:tenstorrent": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Tenstorrent",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "greenhouse:waymo": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Waymo",
    "error": null,
    "ok": true,
    "raw": 3
   },
   "lever:shieldai": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Shield AI",
    "error": null,
    "ok": true,
    "raw": 11
   },
   "smartrecruiters:BoschGroup": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Bosch",
    "error": null,
    "ok": true,
    "raw": 18
   },
   "smartrecruiters:Continental": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Continental",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "smartrecruiters:Rotork": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Rotork",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "smartrecruiters:Wabtec": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Wabtec",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:3m": {
-   "checked": "2026-11-12T07:16:25+00:00",
+   "checked": "2026-11-12T19:58:10+00:00",
    "company": "3M",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:abb": {
-   "checked": "2026-11-12T07:16:27+00:00",
+   "checked": "2026-11-12T19:58:17+00:00",
    "company": "ABB",
    "error": null,
    "ok": true,
-   "raw": 2
+   "raw": 4
   },
   "workday:amat": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "Applied Materials",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:analogdevices": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "Analog Devices",
    "error": null,
    "ok": true,
-   "raw": 6
+   "raw": 9
   },
   "workday:astrazeneca": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "AstraZeneca",
-   "error": null,
-   "ok": true,
-   "raw": 1
-  },
-  "workday:bakerhughes": {
-   "checked": "2026-11-12T07:16:29+00:00",
-   "company": "Baker Hughes",
    "error": null,
    "ok": true,
    "raw": 0
   },
+  "workday:bakerhughes": {
+   "checked": "2026-11-12T19:58:17+00:00",
+   "company": "Baker Hughes",
+   "error": null,
+   "ok": true,
+   "raw": 1
+  },
   "workday:boeing": {
-   "checked": "2026-11-12T07:16:25+00:00",
+   "checked": "2026-11-12T19:58:10+00:00",
    "company": "Boeing",
    "error": null,
    "ok": true,
    "raw": 1
   },
   "workday:broadcom": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Broadcom",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:cadence": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "Cadence",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 0
   },
   "workday:carrier": {
-   "checked": "2026-11-12T07:16:29+00:00",
+   "checked": "2026-11-12T19:58:17+00:00",
    "company": "Carrier",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:cat": {
-   "checked": "2026-11-12T07:16:25+00:00",
+   "checked": "2026-11-12T19:58:10+00:00",
    "company": "Caterpillar",
    "error": null,
    "ok": true,
    "raw": 5
   },
   "workday:centrica": {
-   "checked": "2026-11-12T07:16:29+00:00",
+   "checked": "2026-11-12T19:58:17+00:00",
    "company": "Centrica",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:chevron": {
-   "checked": "2026-11-12T07:16:29+00:00",
+   "checked": "2026-11-12T19:58:17+00:00",
    "company": "Chevron",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:dupont": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "DuPont",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:dyson": {
-   "checked": "2026-11-12T07:16:25+00:00",
+   "checked": "2026-11-12T19:58:10+00:00",
    "company": "Dyson",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:geaerospace": {
-   "checked": "2026-11-12T07:16:20+00:00",
+   "checked": "2026-11-12T19:58:07+00:00",
    "company": "GE Aerospace",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 0
   },
   "workday:globalfoundries": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "GlobalFoundries",
    "error": null,
    "ok": true,
    "raw": 1
   },
   "workday:gsk": {
-   "checked": "2026-11-12T07:16:29+00:00",
+   "checked": "2026-11-12T19:58:17+00:00",
    "company": "GSK",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 0
   },
   "workday:hitachi": {
-   "checked": "2026-11-12T07:16:27+00:00",
+   "checked": "2026-11-12T19:58:17+00:00",
    "company": "Hitachi",
    "error": null,
    "ok": true,
-   "raw": 3
+   "raw": 0
   },
   "workday:hpe": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "HPE",
    "error": null,
    "ok": true,
-   "raw": 3
+   "raw": 4
   },
   "workday:iberdrola": {
-   "checked": "2026-11-12T07:16:29+00:00",
+   "checked": "2026-11-12T19:58:17+00:00",
    "company": "Iberdrola / ScottishPower",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:intel": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "Intel",
    "error": null,
    "ok": true,
-   "raw": 0
+   "raw": 1
   },
   "workday:jci": {
-   "checked": "2026-11-12T07:16:29+00:00",
+   "checked": "2026-11-12T19:58:17+00:00",
    "company": "Johnson Controls",
    "error": null,
    "ok": true,
-   "raw": 0
+   "raw": 1
   },
   "workday:jj": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "Johnson & Johnson",
    "error": null,
    "ok": true,
-   "raw": 3
+   "raw": 2
   },
   "workday:kbr": {
-   "checked": "2026-11-12T07:16:25+00:00",
+   "checked": "2026-11-12T19:58:10+00:00",
    "company": "KBR",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:kla": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "KLA",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 0
   },
   "workday:lumentum": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Lumentum",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:marvell": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Marvell",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:medtronic": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "Medtronic",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 2
   },
   "workday:micron": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Micron",
    "error": null,
    "ok": true,
    "raw": 3
   },
   "workday:motorolasolutions": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Motorola Solutions",
    "error": null,
    "ok": true,
-   "raw": 4
+   "raw": 1
   },
   "workday:novartis": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "Novartis",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:nvidia": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "NVIDIA",
    "error": null,
    "ok": true,
-   "raw": 1
+   "raw": 0
   },
   "workday:nxp": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "NXP",
    "error": "HTTPError: HTTP Error 422: Unprocessable Entity",
    "ok": false,
    "raw": 0
   },
   "workday:pfizer": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "Pfizer",
    "error": null,
    "ok": true,
    "raw": 1
   },
   "workday:philips": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "Philips",
    "error": null,
    "ok": true,
-   "raw": 0
+   "raw": 2
   },
   "workday:renishaw": {
-   "checked": "2026-11-12T07:16:25+00:00",
+   "checked": "2026-11-12T19:58:10+00:00",
    "company": "Renishaw",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:rockwellautomation": {
-   "checked": "2026-11-12T07:16:27+00:00",
+   "checked": "2026-11-12T19:58:17+00:00",
    "company": "Rockwell Automation",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:rollsroyce": {
-   "checked": "2026-11-12T07:16:20+00:00",
+   "checked": "2026-11-12T19:58:07+00:00",
    "company": "Rolls-Royce",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:sanofi": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "Sanofi",
    "error": null,
    "ok": true,
    "raw": 2
   },
   "workday:sec": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Samsung",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:shell": {
-   "checked": "2026-11-12T07:16:29+00:00",
+   "checked": "2026-11-12T19:58:17+00:00",
    "company": "Shell",
    "error": null,
    "ok": true,
    "raw": 1
   },
   "workday:sky": {
-   "checked": "2026-11-12T07:17:00+00:00",
+   "checked": "2026-11-12T19:58:50+00:00",
    "company": "Sky",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:smithnephew": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "Smith+Nephew",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:stellantis": {
-   "checked": "2026-11-12T07:16:25+00:00",
+   "checked": "2026-11-12T19:58:10+00:00",
    "company": "Stellantis",
    "error": null,
    "ok": true,
    "raw": 0
   },
   "workday:stryker": {
-   "checked": "2026-11-12T07:16:59+00:00",
+   "checked": "2026-11-12T19:58:48+00:00",
    "company": "Stryker",
-   "error": null,
-   "ok": true,
-   "raw": 0
-  },
-  "workday:thales": {
-   "checked": "2026-11-12T07:16:25+00:00",
-   "company": "Thales",
    "error": null,
    "ok": true,
    "raw": 1
   },
+  "workday:thales": {
+   "checked": "2026-11-12T19:58:10+00:00",
+   "company": "Thales",
+   "error": null,
+   "ok": true,
+   "raw": 0
+  },
   "workday:unilever": {
-   "checked": "2026-11-12T07:16:25+00:00",
+   "checked": "2026-11-12T19:58:10+00:00",
    "company": "Unilever",
    "error": null,
    "ok": true,
    "raw": 0
   }
  },
- "updated_at": "2026-11-12T07:17:00+00:00"
+ "updated_at": "2026-11-12T19:58:50+00:00"
 }
